@@ -1,0 +1,4 @@
+__pycache__/
+node_modules/
+.audit/
+provenance/qa_v2.json

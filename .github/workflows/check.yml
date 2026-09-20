@@ -1,0 +1,25 @@
+name: Site checks
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+concurrency:
+  group: site-check-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  build:
+    name: Validate site
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Validate data and build
+        run: python3 scripts/build_page.py
+      - name: Check JavaScript syntax
+        run: node --check app.js
+      - name: Check committed output matches sources
+        run: git diff --exit-code -- docs/index.html docs/.nojekyll provenance/build-manifest.json

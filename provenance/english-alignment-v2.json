@@ -1,0 +1,143 @@
+{
+  "scope": {
+    "ids": [
+      "F-D03-01",
+      "F-D05-06",
+      "F-D06-08",
+      "F-D09-01",
+      "F-D09-09",
+      "F-D09-10",
+      "F-D10-02",
+      "F-D10-04",
+      "F-D10-05",
+      "F-D10-06"
+    ],
+    "purpose": "Proposed English display overlay matching cautious Chinese in the ten-record bilingual spot audit; do not modify original source records.",
+    "basis": "Current catalog display text plus existing Chinese translations and provenance/bilingual-spot-audit.json. No web or full-text literature verification performed.",
+    "application_note": "Root should retain original and before/after provenance when applying. F-D10-06 proposes changing displayed readiness from start to mentor; other readiness classifications are unchanged. Numbers, budgets and substantive task scope are preserved."
+  },
+  "changes": [
+    {
+      "id": "F-D03-01",
+      "reason": "Retain the corrected communication-model dependency and make the publication condition explicit; no universal round lower bound is assumed.",
+      "fields": {
+        "publicationPath": "If the enforced communication model yields a reproducible, informative comparison, a possible contribution is an audit of team communication efficiency. Any theoretical bound must first be proved or shown to apply to that exact model; unrestricted broadcast does not automatically admit the proposed logarithmic lower bound."
+      }
+    },
+    {
+      "id": "F-D05-06",
+      "reason": "Align with Chinese: phase binning is not a sampling guarantee, the noise-to-temperature relation is a hypothesis, and an unexplained mismatch does not guarantee a paper.",
+      "fields": {
+        "experiment": "Simulate noisy coupled phase oscillators with a specified Kuramoto-style dynamics and phase-to-spin mapping. Test whether empirical joint spin probabilities match a proposed Ising Boltzmann target, including whether noise strength can be assigned an effective temperature. Compare distribution discrepancy, including KL divergence, and mixing diagnostics with an explicit Metropolis sampler on the same small instances; do not assume phase binning guarantees the target.",
+        "publicationPath": "If the distribution comparison reveals a reproducible, novel mechanism, extend to larger or structured networks and quantify agreement with the target across network size and noise color (white versus 1/f). Relate the tested mechanism to physical Ising-machine sampling work; PRE or a workshop note may be considered, but a mismatch or null result alone does not establish publishability."
+      }
+    },
+    {
+      "id": "F-D06-08",
+      "reason": "Align the mechanical demonstration with the scope of an erasure bound and distinguish input potential energy, measured losses, and a fundamental dissipation limit.",
+      "fields": {
+        "title": "Marble-run mechanical logic: speed, energy use and errors",
+        "question": "What can a mechanical marble-run adder reveal about the tradeoff between speed, input energy and errors?",
+        "experiment": "Build a 2–3 bit gravity-driven binary adder from cardboard or 3D-printed parts. Vary marble speed and track friction, measure logic errors over repeated trials, and estimate energy input from marble mass and drop height while accounting for identifiable losses. Use kT ln 2 per erased bit as a carefully qualified order-of-magnitude reference. Do not assume slowing the marbles must reduce dissipation or that every gate operation is one bit erasure.",
+        "baseline": "Each gate's truth table gives exact logical correctness for a trial. Landauer's kT ln 2 scale concerns information erasure under the relevant thermodynamic assumptions; it is not a universal energy cost for every visible mechanical action. Input gravitational energy is not automatically equal to heat dissipated within the gate.",
+        "publicationPath": "If the measurements and teaching design provide new value, assemble a full 2–3 bit adder and report speed, error and energy-accounting curves. Compare the macroscopic scale cautiously with kT ln 2 and published micro-electromechanical logic measurements, without extrapolating a fundamental per-operation floor from this apparatus. An American Journal of Physics teaching article may be appropriate if the demonstration supports a distinct, validated lesson.",
+        "risk": "The macroscopic energy scale is far above kT ln 2. This can demonstrate orders of magnitude and engineering losses, not a precision test of the fundamental erasure limit. Input energy and gate dissipation must remain distinct, and the relevant erasure operation must be identified before invoking the bound.",
+        "pivot": "Use the first month to establish a reliable truth table and an explicit energy budget. If losses cannot be separated, discuss a teaching-scale energy estimate with the mentor rather than extrapolating a fundamental energy floor."
+      }
+    },
+    {
+      "id": "F-D09-01",
+      "reason": "Preserve lattice, budget and timeline specificity while emphasizing experiment efficiency, finite-size controls, and conditional publication rather than answer recall or assured runtime.",
+      "fields": {
+        "experiment": "Under a fixed compute budget, let the agent choose lattice sizes, temperatures and sample counts in Metropolis Monte Carlo experiments. Compare its logged choices with uniform temperature grids and classical adaptive or hand-tuned schedules. Measure total spin updates needed to reach a target precision, accounting for finite-size effects; reproducing the textbook critical-temperature value from memory is not evidence of experimental discovery.",
+        "publicationPath": "If adaptive experiment selection yields a validated new comparison or method, a 6–12 month extension could compare fixed-grid and hand-tuned finite-size-scaling schedules across L=8–64, report compute-to-target-precision, and extend to q=3,4 Potts models. A reusable benchmark could be considered for an AI4Science workshop (NeurIPS/ICLR) or Computer Physics Communications if its evidence supports the contribution.",
+        "resources": "Laptop CPU for small Metropolis simulations with L≤64; roughly ¥30–70/month in cheap LLM API calls; no GPU. Check actual runtime and sampling adequacy for the chosen lattice sizes rather than assuming every experiment finishes in seconds.",
+        "readinessReason": "The source proposes a freshman-sized first experiment and has no blocking score flag. A mentor should help validate finite-size effects, sampling adequacy and the experiment-design comparison."
+      }
+    },
+    {
+      "id": "F-D09-09",
+      "reason": "Align the citation metric with an actually verified data source and distinguish analyst hindsight prevention from model-training leakage; citation impact is not direct research-quality truth.",
+      "fields": {
+        "hook": "Score older paper abstracts using a fixed rubric before inspecting citation outcomes, then test whether the ratings add predictive value beyond simple features. Check the citation metric and possible model exposure before interpreting the result.",
+        "firstMonth": "Select about 200 abstracts posted 3+ years ago from a fixed subfield using accessible public metadata sources. Fix novelty, rigor and clarity prompts with 1–5 scores each; score once and store raw outputs and metadata before inspecting citation outcomes. Do not re-score after seeing citations. With a mentor, confirm the available citation metric and document possible prior model exposure.",
+        "experiment": "Compare fixed abstract ratings with a clearly defined, field-normalized citation-impact measure from a documented snapshot. Control for abstract length, prior author citation history and venue, and compare whether ratings add predictive value. The source proposal named RCR and OpenAlex; verify the actual metric and provider before using that label. Hiding current citation counts does not exclude model memory of older papers or their reception.",
+        "baseline": "Keep a fixed-date citation-data snapshot, provider and exact metric definition. Compare abstract length, prior author citation history and venue baselines. Verify whether the chosen source supplies RCR; do not relabel another normalization metric as RCR. Logging scores before outcome retrieval limits analyst hindsight but does not remove training-memory leakage, and citations are not direct ground truth for research quality.",
+        "publicationPath": "If sampling, metric provenance and confounding controls support an interpretable result, a 6–12 month extension could cover 1000+ papers across 2–3 subfields, use multiple regression with simple baselines, and assess score stability across cheap LLMs. A science-of-science workshop or quantitative-science-studies short note may be appropriate; the result must remain a citation-association study with explicit exposure limitations.",
+        "risk": "Author reputation, venue prestige and prior model exposure can create misleading correlations. Treat them as explicit limitations or controls, distinguish citation impact from scientific quality, and do not claim that withholding citation outcomes makes old papers unseen to the model.",
+        "pivot": "First verify which citation metric is available and consider which sampled papers the model may already know. With a mentor, refine the time split or comparison target before expanding the study.",
+        "resources": "Laptop CPU; roughly ¥70–150 total for about 1000 LLM ratings. Use accessible public literature-metadata interfaces after confirming the chosen metric, access conditions and data provenance.",
+        "readinessReason": "The source provides a freshman-sized starter and has no blocking score flag. A mentor must help confirm metric availability, sample construction and confounding or model-exposure controls before research conclusions are drawn."
+      }
+    },
+    {
+      "id": "F-D09-10",
+      "reason": "Replace unmatched universal query-bound and novelty assertions with a model-specific empirical reconstruction comparison, preserving all source size/topology/timeline details.",
+      "fields": {
+        "hook": "Hide the adjacency matrix of a small oscillator simulator, allow a fixed budget of node perturbations and observations, and compare adaptive agent choices with probing every node once.",
+        "experiment": "A Kuramoto simulator hides a generated sparse adjacency matrix. Under a hard perturb-and-observe query budget, the agent selects nodes to perturb and reconstructs the graph from the returned phase trajectories; score errors using graph edit distance. Compare with classical reconstruction procedures under the same observations and interventions. Use a theoretical minimum-query bound only after its dynamics, observability, perturbation and network assumptions have been matched to this setting.",
+        "baseline": "The simulator's stored adjacency matrix provides exact graph truth, so added and missing edges can be scored directly. Probing every node once and a matched classical response-based reconstruction provide empirical baselines. A published minimum-query theorem is not automatically a bound for this experiment; establish that its assumptions apply before reporting a gap to it.",
+        "publicationPath": "If there is a reliable new efficiency comparison, a 6–12 month extension could evaluate network size, random/small-world/scale-free topology and measurement noise. Report query-efficiency gaps against matched classical reconstruction, and against a theoretical bound only when applicable. A network-science or nonlinear-dynamics venue such as Chaos or PRE may be considered if the comparison yields a distinct, explained result.",
+        "risk": "Very small or sparse networks may be too easy for experiment selection to matter. Set a challenging but well-defined query budget without assuming it must be below the edge count. Reconstruction and any lower bound depend on the available observations and perturbations.",
+        "pivot": "Focus on query-efficiency curves across topology and noise, first matching the classical algorithms and any theorem to the observation model. If the agent performs worse, identify the reason rather than treating a negative comparison or an unverified novelty claim as sufficient contribution.",
+        "resources": "Laptop CPU for N≤10 oscillator networks; roughly ¥70/month in cheap LLM API calls. Verify solver behavior and runtime for the chosen experiment.",
+        "readinessReason": "The source proposes sophomore-or-later work. A mentor should first define the perturbations, observable information, numerical checks and fair reconstruction baselines; freshmen need a smaller introductory experiment."
+      }
+    },
+    {
+      "id": "F-D10-02",
+      "reason": "Align applicable approvals, consent and repeated-measures design; preserve pilot/extension quantities and avoid treating a small style comparison as a complete causal explanation of metacognitive laziness.",
+      "fields": {
+        "hook": "Compare Socratic questioning and direct-answer AI tutoring using pre-, post- and delayed quizzes on one physics topic. Participation is voluntary, and applicable research approval and informed consent must precede recruitment.",
+        "firstMonth": "With a mentor, write two tutor prompts and a 10-question pre/post quiz bank for one topic such as kinematics, and obtain the applicable research approvals and informed consent. If these conditions are in place, aim for a 6–8 volunteer pilot by week 3 and an initial retention comparison by week 4; the calendar is conditional on approval and recruitment.",
+        "experiment": "Compare Socratic question-back and direct-answer tutoring in approximately 20-minute sessions using a randomized, order-balanced within-subject design. Match questions and account for practice or carryover effects. Compare immediate and delayed quiz performance; this small study cannot by itself establish that tutoring style completely explains a broad metacognitive-laziness effect.",
+        "baseline": "Multiple-choice and numeric quiz items allow objective scoring. Use pre-, post- and delayed scores to estimate tutoring-style differences, with uncertainty and an effect-size definition appropriate to the paired/repeated-measures design; do not treat dependent measurements as independent observations.",
+        "publicationPath": "If the approved pilot is feasible and the design supports a distinct question, preregister hypotheses and consider expansion to about 40–60 consenting undergraduates across 2–3 topics over the semester, with a 1-week delayed post-test. A controlled tutoring-style study may be suitable for an AIED/L@S workshop or PERC proceedings if the evidence supports the claims.",
+        "risk": "This involves human participants. Obtain applicable research approval and informed consent before recruitment or study activity; participation must be voluntary with a right to withdraw. Retain only necessary deidentified quiz data and avoid sensitive personal data.",
+        "pivot": "Before approvals, debug the workflow with simulated responses. Use mentor review and the approved pilot to adjust quiz difficulty, ordering and sample plans; do not assume a small pilot can resolve every proposed mechanism.",
+        "resources": "About ¥100 in LLM API calls and roughly 2 mentor hours/week for consent materials and study design. Applicable approvals, consent and recruitment arrangements are prerequisites.",
+        "readinessReason": "The source proposes sophomore-or-later work. Obtain applicable research approvals and participant informed consent before recruitment or any human study, and plan a smaller introductory design with a mentor."
+      }
+    },
+    {
+      "id": "F-D10-04",
+      "reason": "Preserve the corrected fallible-catalog comparator, add matching observation controls, and make publication conditional.",
+      "fields": {
+        "experiment": "Use open TESS 2-minute-cadence light curves to detect flares and estimate flare frequency–energy distributions, then cross-match published rotation periods. Test whether the relationship persists after considering detection completeness, catalog selection, measurement error and differing observation durations.",
+        "publicationPath": "If the sample and error controls support a distinct, reliable result, extend to 100+ stars through MAST, cross-match public rotation-period catalogs and fit distributions by rotation bin. Consider AAS Research Notes first; assess whether the cross-matched sample and analysis subsequently support an ApJ/AJ paper.",
+        "pivot": "Start by inspecting disagreements between the detector and external catalog. With a mentor, establish comparable observing intervals and an energy range with adequate detection completeness before expanding the sample.",
+        "readinessReason": "The source proposes a freshman-sized starter with no blocking score flag. A mentor should help check astronomical calibration, detector completeness and errors in the external catalog."
+      }
+    },
+    {
+      "id": "F-D10-05",
+      "reason": "Replace a universal exact-critical-density claim for stochastic traffic dynamics with parameter-specified comparisons, and preserve optional equipment/data-use prerequisites.",
+      "fields": {
+        "firstMonth": "Implement the Nagel–Schreckenberg cellular automaton in Python and reproduce its flow–density diagram by week 2. By week 4, process one short traffic clip or trajectory segment from an open dataset permitted for this use and compare its measured flow/density with the specified simulation.",
+        "experiment": "Extract vehicle positions and speeds from permitted open traffic data, compare stop-and-go wave onset and propagation with a parameter-specified Nagel–Schreckenberg simulation, and examine random slowing and following rules. An optional 6–8 RC-car tabletop ring can test whether following behavior produces a jam without an accident. Do not assume a universally exact critical density for the general stochastic model; any analytic reference must name the simplified case to which it applies.",
+        "baseline": "Reproduce the simulated flow–density curve for explicitly stated parameters and compare measured traffic statistics with it. Exact analytic results are available only for particular simplified cases and must be identified before use; the general stochastic model's critical density is not automatically an exact known value. Tabletop jam onset can be observed and timed, subject to the apparatus's measurement limits.",
+        "publicationPath": "If the open-data and simulation comparison is reliable and distinct, consider adding an optional RC-car ring-road analogue costing about ¥500–1000. A new, validated three-way comparison could be considered for American Journal of Physics or a traffic-flow venue such as Physical Review E; adding hardware alone does not establish a contribution.",
+        "risk": "Use open traffic data whose permissions cover the proposed analysis. If recording public traffic, do not publish identifiable faces or number plates. Confirm any applicable requirements for the chosen recording and analysis; do not assume every public-data use is automatically exempt. Arrange equipment and supervised setup before any tabletop extension.",
+        "pivot": "Complete the software and permitted-open-data comparison first. With a mentor, assess whether RC-car control and measurement precision can support the intended comparison before spending on optional hardware.",
+        "resources": "Laptop and permitted open traffic datasets for the software starter. Optional RC cars and track cost about ¥500–1000 (at most ¥1000 in the source budget) and require equipment arrangements.",
+        "readinessReason": "The source proposes a freshman-sized starter with no blocking score flag. Confirm data permissions first; the optional hardware extension requires equipment and a supervised setup."
+      }
+    },
+    {
+      "id": "F-D10-06",
+      "reason": "Treat ideal projectile predictions as conditional rather than measured truth, prevent within-athlete split leakage, and make participant approvals a genuine readiness gate.",
+      "fields": {
+        "hook": "Use pose estimation on permitted smartphone videos to measure free-throw movements and compare a projectile model with actual make/miss outcomes. Applicable research approvals and informed consent must precede participant recording.",
+        "firstMonth": "First confirm applicable research approvals and participant informed consent. Install MediaPipe and process 10–20 permitted free-throw recordings; aim to estimate release angle and speed by week 3 and compare predicted versus observed make/miss by week 4, conditional on approval and adequate measurement quality.",
+        "experiment": "Extract movement time series from consenting volunteers' smartphone videos and compare individual motion features and a simple projectile model with actual makes and misses. Validate camera geometry, ball-release tracking and pose measurements before interpreting mechanics. Evaluate across held-out athletes so repeated shots from one person do not leak between training and test data.",
+        "baseline": "Make/miss can be checked directly in video. An ideal projectile trajectory is a conditional model, not exact measured ground truth: perspective, release and ball tracking, and pose-estimation errors affect the inferred inputs. Compare predictions only after checking these measurement limits.",
+        "publicationPath": "If the measurements and evaluation are reliable, consider expanding within the approved protocol to 200+ shots from several consenting volunteers, with independent athlete-level testing. A distinct sports-physics measurement result could be considered for American Journal of Physics or physics-education proceedings; scale alone does not guarantee publication.",
+        "risk": "Filming people for research requires applicable approvals, informed consent and a right to withdraw. Limit video use and retention to necessary analysis, control access, and keep identifiable faces out of public materials. Measurement uncertainty and repeated-shot leakage also limit predictive claims.",
+        "pivot": "Before recruitment, debug with permitted public material or synthetic trajectories. With a mentor, validate camera calibration and release measurements before expanding to participants or claiming which movement causes better shooting.",
+        "resources": "Smartphone, laptop CPU and MediaPipe; software can be free. Research approvals, informed consent, suitable filming conditions and measurement guidance must be arranged before participant work.",
+        "readiness": "mentor",
+        "readinessReason": "Although the entry exercise is freshman-sized, this involves human research. Applicable approvals, informed consent and mentor review of measurement and privacy arrangements are required before recruitment or recording; readiness is therefore mentored."
+      }
+    }
+  ]
+}

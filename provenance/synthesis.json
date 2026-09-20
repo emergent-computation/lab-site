@@ -1,0 +1,176 @@
+{
+  "version": "student-browser-synthesis-v1",
+  "date": "2026-09-20",
+  "author": "Codex / GPT-6 Astra, bounded independent synthesis agent",
+  "scope": "Read both complete campaign title/question inventories and original descriptions for featured choices; no new literature search or full-text review. Recommendations are an editorial browsing aid, not new scientific validation.",
+  "retention_policy": "Retain all 200 source ideas under A-Dxx-xx and F-Dxx-xx. Add related links and distinguish shared tasks from alternative experiments. Do not silently delete variants or merge incompatible numeric scores.",
+  "featured_label": "Start exploring",
+  "featured_explanation": "Twelve different places to begin: six from each original collection. This is a balanced selection to browse, not a combined ranking. Each starts with a small learning exercise; a paper requires a sharper question, a literature check, and convincing results.",
+  "featured": [
+    {
+      "id": "A-D01-10",
+      "title": "A correct final answer can hide collateral edits",
+      "display_title": "Did the agent quietly change something else?",
+      "interests": ["AI agents", "Reliable software"],
+      "why_featured": "A visible, everyday failure and an offline first exercise: spot changes to fields that should have stayed untouched.",
+      "first_step": "Make a tiny appointment table and label 30 example edits as allowed or accidental; then write checks that catch them.",
+      "readiness": "Astra provisionally eligible. Learn assertions and sets; a mentor checks what each task is allowed to change.",
+      "publication_condition": "Show a real blind spot in an existing evaluator. A made-up failing example alone is insufficient."
+    },
+    {
+      "id": "F-D09-01",
+      "title": "Agent locates the 2D Ising model's critical temperature",
+      "display_title": "Can an AI choose better physics experiments?",
+      "interests": ["AI agents", "Physics", "Simulation"],
+      "why_featured": "A natural AI–physics pair project with a known reference answer and a shared picture to reproduce first.",
+      "first_step": "Reproduce a small Ising magnetization curve with a checked simulator before giving an agent control of temperature and sample count.",
+      "readiness": "Fable ungated, freshman pair, shallow audit twist-ok. Needs a Monte Carlo tutorial, energy-convention checks, and uncertainty estimates; allow warm-up time before agent integration.",
+      "publication_condition": "Compare compute needed for a target accuracy against strong classical adaptive and fixed-grid baselines. The agent may already know the textbook temperature; test experiment choice, not recall."
+    },
+    {
+      "id": "A-D04-01",
+      "title": "How many coupling bits preserve the answer?",
+      "display_title": "When does rounding change a physics machine's answer?",
+      "interests": ["Physics", "Ising machines", "Math"],
+      "why_featured": "Small systems can be checked exhaustively on a laptop, so beginners can know whether their result is correct.",
+      "first_step": "List all spin states of a tiny Ising problem and compare its best answer before and after rounding the coupling strengths.",
+      "readiness": "Astra provisionally eligible. No hardware or neural-network training; mentor checks the energy formula and degeneracies.",
+      "publication_condition": "Go beyond known precision sensitivity to a useful instance-specific bound or a sharp counterexample."
+    },
+    {
+      "id": "F-D04-06",
+      "title": "Sumplete: solving the ChatGPT-invented NP-complete grid puzzle",
+      "display_title": "Can an AI solve a puzzle associated with ChatGPT?",
+      "interests": ["Puzzles", "AI agents", "Math"],
+      "why_featured": "A playable task with exact answer checking and a clear progression from a tiny solver to controlled model comparisons.",
+      "first_step": "Solve a small row-and-column-sum puzzle by hand, then write a checker and an exhaustive solver for tiny grids.",
+      "readiness": "Fable ungated, freshman, shallow audit twist-ok. The puzzle generator and solver must be validated; verify uniqueness only when the experiment requires it.",
+      "publication_condition": "Generic puzzle benchmarks are crowded. Fresh instances reduce memorization concerns but do not prove the task is uncontaminated or new."
+    },
+    {
+      "id": "A-D02-01",
+      "title": "Which logical words survive memory compression?",
+      "display_title": "Does an AI memory forget words like 'except'?",
+      "interests": ["AI agents", "Language", "Logic"],
+      "why_featured": "Short instructions and exact sets make subtle memory mistakes understandable without advanced ML.",
+      "first_step": "Write examples such as 'invite everyone except Sam' and check which decisions remain correct after shortening the instructions.",
+      "readiness": "Astra provisionally eligible. Mentor supplies five checked templates; the comparison must give structured and prose memories equal information budgets.",
+      "publication_condition": "Measure a specific quantifier failure and a controlled remedy beyond the established benefits of structured memory."
+    },
+    {
+      "id": "F-D05-06",
+      "title": "Do noisy coupled oscillators sample a Boltzmann distribution?",
+      "display_title": "Do noisy oscillators explore the right answers?",
+      "interests": ["Physics", "Ising machines", "Simulation"],
+      "why_featured": "Tiny exact distributions make the difference between finding one good answer and sampling fairly tangible.",
+      "first_step": "Compute the exact probabilities of a tiny Ising system and reproduce them with a standard sampler before trying oscillator dynamics.",
+      "readiness": "Fable ungated, freshman pair, shallow audit twist-ok. Mentor must specify and validate the phase-to-spin model and numerical integration; arbitrary binned Kuramoto dynamics need not implement an Ising sampler.",
+      "publication_condition": "A useful result needs a mechanism for sampling failure, sufficient mixing checks, and justified temperature calibration. A mismatch by itself does not guarantee a paper."
+    },
+    {
+      "id": "A-D09-02",
+      "title": "A split builder that keeps noisy copies together",
+      "display_title": "Did the model learn, or see a copy of the answer?",
+      "interests": ["Data", "AI", "Reliable science"],
+      "why_featured": "A visual synthetic-data exercise exposes an important real-world mistake using distances and simple classifiers.",
+      "first_step": "Generate measurements and slightly altered copies, then show how a random train/test split can make prediction look too easy.",
+      "readiness": "Astra provisionally eligible. Mentor supplies an ancestry generator. A nearest-precedent literature check remains required.",
+      "publication_condition": "Deduplication and grouped splitting are mature; demonstrate an improved tradeoff between contamination and falsely merging rare examples."
+    },
+    {
+      "id": "F-D07-05",
+      "title": "Phase diagram of particle-life clustering",
+      "display_title": "Watch simple particles build moving worlds",
+      "interests": ["Artificial life", "Physics", "Visual simulation"],
+      "why_featured": "Immediate visual feedback offers a gentle entry into simulation while leaving room for careful quantitative physics.",
+      "first_step": "Run a small two-species particle simulation and measure the sizes of the clusters it forms.",
+      "readiness": "Fable ungated, freshman, shallow audit twist-ok. Fix the force rule, boundary conditions, and integrator; test that behavior survives smaller time steps.",
+      "publication_condition": "Attractive animations are a learning result. A paper needs a robust, narrowly defined transition and finite-size analysis; no universality claim from one fitted curve."
+    },
+    {
+      "id": "A-D07-03",
+      "title": "A useful lifetime for social confirmation",
+      "display_title": "When should a repeated rumor stop counting?",
+      "interests": ["Networks", "Simulation", "Collective behavior"],
+      "why_featured": "A simple event-list simulation connects timing, repeated evidence, and collective decisions without collecting personal data.",
+      "first_step": "Simulate people adopting a message after two confirmations, then vary how long an old confirmation remains valid.",
+      "readiness": "Astra provisionally eligible. Learn lists, probability, and plotting; a mentor checks timestamp and synthetic source-label definitions.",
+      "publication_condition": "Keep contacts and sources matched while varying timing. Results concern the stated simulation, not demonstrated human behavior."
+    },
+    {
+      "id": "F-D02-08",
+      "title": "The boiling frog: detection threshold for gradual tool-output drift",
+      "display_title": "How long does an agent miss a slowly drifting tool?",
+      "interests": ["AI agents", "Reliable software", "Data"],
+      "why_featured": "A controllable fake sensor produces a clear plot of when answers become wrong and when the system reports trouble.",
+      "first_step": "Build a numeric mock tool, add a growing bias, and define a task with an exactly checkable answer before running a model.",
+      "readiness": "Fable ungated, freshman, shallow audit twist-ok. Define a measurable warning output and validate it; keyword hits do not establish awareness. Do not require API log probabilities before checking availability.",
+      "publication_condition": "Compare against a suitable classical drift detector. A prompt-injection detector is not automatically a meaningful upper bound for numeric drift."
+    },
+    {
+      "id": "A-D10-02",
+      "title": "A tuner that knows when to stay quiet",
+      "display_title": "Build a music tuner that admits uncertainty",
+      "interests": ["Music", "Audio", "Signal processing"],
+      "why_featured": "Students can hear the problem and start with synthesized notes and known answers on an ordinary laptop.",
+      "first_step": "Generate a note with a sharp onset and compare short-window and long-window pitch estimates as it settles.",
+      "readiness": "Astra provisionally eligible. Mentor provides a windowing example; no hardware or participants needed. Nearest-precedent check remains required.",
+      "publication_condition": "Existing tuner confidence thresholds may match the proposed method. Test accuracy, rejected frames, and latency together."
+    },
+    {
+      "id": "F-D10-04",
+      "title": "TESS flare-energy power laws vs. stellar rotation",
+      "display_title": "Find stellar flares in space-telescope data",
+      "interests": ["Astronomy", "Open data", "Physics"],
+      "why_featured": "A route beyond the lab's main topics with real public observations and a concrete first plot.",
+      "first_step": "Download one curated star's light curve, inspect candidate flares, and compare detections with a published catalog.",
+      "readiness": "Fable ungated but unaudited; one judge calls the broad relation already studied. Needs a curated starter star and data-wrangling support. Published flare catalogs are references, not exact complete ground truth.",
+      "publication_condition": "The rotation–flare relation is established. First treat this as a replication; seek a justified sample, completeness correction, or methodological extension before promising novelty."
+    }
+  ],
+  "overlap_clusters": [
+    {"id":"sampler-objectives","label":"Finding minima versus sampling fairly","members":["A-D04-04","A-D04-05","A-D04-10","F-D05-04","F-D05-06","F-D05-09","F-D06-10"],"relationship":"nested_questions_and_platform_variants","explanation":"All compare empirical states with a Boltzmann target. A-D04-10 changes postprocessing; F-D05-09 changes annealing schedules; A-D04-04 probes hidden within-energy bias; A-D04-05 tests calibration transfer; F-D05-04/06/06-10 change sampler implementation. Share exact-enumeration tools and distribution diagnostics, keep experiments distinct.","duplicate_disposition":"No exact cross-source duplicate established; potentially one coordinated sampling project."},
+    {"id":"ising-fair-compute","label":"Fair comparison of Ising solvers","members":["A-D04-06","F-D05-01"],"relationship":"nested_question","explanation":"Astra isolates integration-step effects at matched work; Fable compares algorithms after budgeted hyperparameter tuning. Step-size control can become a required component of the broader race.","duplicate_disposition":"Keep both; offer the Astra scope as a diagnostic within the Fable project."},
+    {"id":"ising-noise-time","label":"When and how noise helps an anneal","members":["A-D04-08","F-D05-02","F-D05-03","F-D05-09"],"relationship":"alternative_mechanisms","explanation":"Noise timing, critical slowing, avalanches, and schedule-dependent sampling share trajectories but test different mechanisms.","duplicate_disposition":"Related experimental scopes, not duplicates."},
+    {"id":"scientist-budget","label":"An agent chooses the next experiment","members":["A-D03-01","A-D03-02","A-D03-05","A-D03-10","F-D09-01","F-D09-03","F-D09-04","F-D09-05","F-D09-10"],"relationship":"shared_platform_and_task_variants","explanation":"Fable supplies concrete physics worlds; Astra isolates repeat/new tradeoffs, decision-relevant information, batches, and enabling actions. Combine one physics world with one design question before expanding. Fable's several discovery tasks are a ladder, not automatically separate papers.","duplicate_disposition":"Retain each as a variant and link to a shared experimental-design family."},
+    {"id":"scientist-model-check","label":"When the scientific model is wrong or undecidable","members":["A-D03-03","A-D03-06","F-D09-02","F-D09-05"],"relationship":"alternative_scopes","explanation":"Reserved diagnostic queries, exact observational equivalence, the wrong transition model, and a broken small-angle approximation all examine justified scientific conclusions. Exact equivalence is fundamentally different from a model that can be falsified with the available tests.","duplicate_disposition":"Do not merge the impossibility task with model-mismatch tasks."},
+    {"id":"gradual-drift","label":"Detecting and correcting a drifting instrument","members":["A-D03-09","F-D02-08"],"relationship":"nested_question","explanation":"Fable measures silent drift detection; Astra chooses reference measurements to separate instrument drift from true change. They can share a simulator but require different outputs and baselines.","duplicate_disposition":"Near-overlap, preserve detection and recalibration scopes."},
+    {"id":"fault-checkpoints","label":"Where should an agent check its work?","members":["A-D01-07","A-D01-10","F-D02-01","F-D02-07","F-D02-09"],"relationship":"shared_harness_alternative_questions","explanation":"Astra chooses verification calls and audits collateral writes; Fable studies fault propagation, checkpoint spacing, and model cost. A common stateful toy environment can support these without asserting they are the same question.","duplicate_disposition":"Coordinate infrastructure; retain intervention and metric distinctions."},
+    {"id":"memory-drift","label":"Errors that persist in agent memory","members":["A-D02-01","A-D02-03","A-D02-04","F-D02-04","F-D02-06"],"relationship":"alternative_causes_of_failure","explanation":"Quantifier loss, repeated summarization, missing stored evidence, deliberate false facts, and long-horizon context growth are different causes. Use common histories and exact checks while separating corruption from omission.","duplicate_disposition":"Same family, not duplicate experiments."},
+    {"id":"correlated-team-evidence","label":"A team can repeat the same mistake","members":["A-D02-08","A-D07-04","A-D07-08","F-D03-04","F-D01-08"],"relationship":"near_overlap_different_interventions","explanation":"All question gains from more nominal votes. Astra exposes ancestry, preserves independent estimates, or selects committees; Fable measures majority-vote scaling and repeated-sample cost. Evidence dependence is shared; proposed interventions differ.","duplicate_disposition":"Best treated as a coordinated correlated-evidence family, not five independent novelty claims."},
+    {"id":"grader-errors","label":"When the grader is the problem","members":["A-D01-10","F-D01-09"],"relationship":"complementary_error_modes","explanation":"Astra targets false acceptance despite unintended state changes; Fable targets false rejection of correct but differently formatted answers.","duplicate_disposition":"Complementary evaluator audits; preserve both directions of error."},
+    {"id":"repeat-budget","label":"How many repetitions make a result trustworthy?","members":["A-D09-07","F-D01-01"],"relationship":"near_overlap_different_allocation","explanation":"Fable estimates benchmark variance versus repeat count. Astra allocates a fixed fit budget between split and seed repetitions while charging for a pilot. Shared statistical warm-up, distinct optimization problem.","duplicate_disposition":"Potential common bootcamp with a later allocation extension."},
+    {"id":"ca-majority","label":"Local cells decide a global majority","members":["A-D06-04","F-D07-10"],"relationship":"same_task_different_method","explanation":"Both use cellular density classification. Astra adds refractory memory under asynchronous clocks; Fable uses an LLM to search rule tables and studies interpretation. This is the clearest shared task across campaigns.","duplicate_disposition":"Retain method variants; coordinate baseline rules and exact scoring."},
+    {"id":"pattern-repair","label":"Cellular patterns repair damage","members":["A-D06-02","A-D06-03","F-D07-03","F-D07-08"],"relationship":"alternative_constraints_and_outputs","explanation":"Astra enforces material conservation or a growth-stop signal. Fable measures regeneration scaling or controller robustness. Visual similarity does not make their conservation assumptions or output metrics equivalent.","duplicate_disposition":"Related platform, separate questions."},
+    {"id":"particle-life","label":"Self-organizing particles","members":["A-D06-06","F-D07-05"],"relationship":"platform_overlap","explanation":"Astra introduces history-dependent type switching to repair boundaries; Fable maps clustering/traveling behavior of a fixed interaction rule.","duplicate_disposition":"Different dynamics and question; keep as related approaches."},
+    {"id":"evolution-diversity","label":"Keeping possibilities alive during evolution","members":["A-D06-08","A-D06-09","F-D07-09"],"relationship":"thematic_platform_overlap","explanation":"Reward curricula, dormant phenotype archives, and novelty selection all affect evolutionary diversity, but Astra's digital organisms and Fable's Lenia populations need different implementations.","duplicate_disposition":"Do not force a code-level or novelty merge."},
+    {"id":"delay-reservoirs","label":"Computation with one dynamical node","members":["A-D05-01","A-D05-02","A-D05-03","F-D06-06"],"relationship":"simulation_to_hardware_ladder","explanation":"Astra isolates masks, reset pulses, and virtual-node sampling; Fable builds a physical delay reservoir. Simulation studies may prepare hardware work; hardware has additional access, cost, and supervision requirements.","duplicate_disposition":"Keep hardware clearly distinct from laptop-only variants."},
+    {"id":"traffic-dynamics","label":"Traffic flow in simple models","members":["A-D07-02","F-D10-05"],"relationship":"domain_overlap_only","explanation":"Astra staggers route recommendations after demand shocks; Fable compares stop-and-go waves with a cellular traffic model or observations. Route choice and within-road jams are different mechanisms.","duplicate_disposition":"Related browsing link only; not a duplicate."}
+  ],
+  "student_copy": {
+    "hero": "Find a question you want to spend time with.",
+    "intro": "Explore 200 project sketches in AI, physics, music, ecology, and more. You do not need research experience to start. Every project begins with something small to learn or build.",
+    "choose_steps": [
+      "Pick a topic that makes you curious. Your major does not limit your choices.",
+      "Read the first step and the resources. Start with a small plot, simulation, puzzle, or checker you can understand.",
+      "Save a few favorites, including one outside your usual interests. These are interests, not commitments.",
+      "Discuss a short starter exercise with a mentor. Choose a project after trying the first step."
+    ],
+    "paper_path": "A first result is a learning milestone. A publication comes later if the question is still open and the evidence is strong; none of these sketches guarantees a paper.",
+    "score_note": "The two collections used different scoring systems. Original assessments are shown as context; their numbers should not be compared directly.",
+    "related_note": "Related ideas may share a simulator or ask different versions of a question. Explore both before choosing a scope.",
+    "readiness_note": "Some sketches need a mentor-provided example, data, hardware, or a sharper research question. Check the preparation notes before starting."
+  },
+  "implementation_caveats": [
+    {"ids":[],"note":"Do not label the 12 featured choices as the combined top 12 or sort all 200 on normalized source scores; normalization would not align their different criteria."},
+    {"ids":[],"note":"Preserve source readiness, risk, and audit status. An unaudited idea is not a confirmed open problem; publication venues and first-month timelines are aspirations."},
+    {"ids":["F-D03-01"],"note":"Its broadcast protocol does not establish the claimed logarithmic lower bound. One unrestricted broadcast from every agent can reveal all links. Require a precisely specified communication/computation model and mentor verification before presenting a theory comparison as valid."},
+    {"ids":["F-D10-04"],"note":"A published CNN flare catalog is an imperfect reference set, not exact ground truth. Detection completeness and energy estimates require checking."},
+    {"ids":["F-D05-06"],"note":"Phase binning of an arbitrary noisy Kuramoto system does not by itself yield an Ising Boltzmann target. The phase-to-spin mapping and assumed stationary distribution must be justified."},
+    {"ids":["F-D02-08"],"note":"A keyword flag is an observable response, not proof of awareness; prompt-injection detection is not an established upper bound for numeric drift detection. Audit-suggested log probabilities may be unavailable."},
+    {"ids":["F-D10-01","F-D04-06"],"note":"Newly released exams or generated instances reduce some memorization concerns but do not make contamination structurally impossible. Related questions, task templates, solutions, and training dates remain uncertain."},
+    {"ids":["F-D10-02","F-D10-06"],"note":"Human-participant studies need appropriate consent and institutional handling before recruitment; offer nonparticipant starter exercises where feasible."},
+    {"ids":["F-D09-01","F-D09-03","F-D09-04","F-D09-05"],"note":"Known textbook answers may already be in a model's memory. Evaluate the choices and evidence under a controlled task, not merely whether the model states the known answer."},
+    {"ids":["A-D07-02"],"note":"Post-audit replacement; only a correction scoring pass, no idea-specific adversarial audit. The synthesis link is not a new audit."}
+  ]
+}

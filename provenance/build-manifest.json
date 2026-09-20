@@ -1,0 +1,33 @@
+{
+  "version": "fieldnotes-public-v1",
+  "catalogIdeas": 200,
+  "translationIdeas": 200,
+  "assessedIdeas": 200,
+  "languages": [
+    "zh-CN",
+    "en"
+  ],
+  "indexSha256": "1464dd2dd18d5d0c4452b5aae1cceaf5c441d3009a33afd057fe977f7bd2e562",
+  "inputHashes": {
+    "shell.html": "754d65bfe10ac27c7e8247d62232b7f8b2ce70ce0d50054ed8c829fae0515831",
+    "styles.css": "1520779853ad72abbbbb2b93bf94c9d9b16905d8da833cbba43f8c875052b8e8",
+    "app.js": "9ad7388bcfa8d274b9ad3be17b80f18a5f6d72b5bdab87ceac304dcdc407a6d2",
+    "catalog.json": "b6a60403516b6e8f7feccbc04847c878fc65cc3887dcb9901cdf21c0501ba117",
+    "scores.json": "ca6ad5fb8a01874ade434b397666677c21470b3164da4f925f46a108d086bae6",
+    "rubric.json": "a66b515ce7f99d86b91a825dbac34da0057461ef902bc3453ab06e4b5bce51da",
+    "locales/ui.json": "d5a140577180f8e656bb9ad62449ec75e14e399cd94d8a04d667e64a7f57f11e",
+    "locales/shared-zh.json": "b52dffbc6fbfc26b422aa0925849c8c95cdba836d4d93dd1ad883c1a963f034b",
+    "provenance/synthesis.json": "6bf8d18188e4201268ea1af796b77f4d34dfe3d4a12e5c2b6c9d7c4a40c5100c",
+    "provenance/english-alignment-v2.json": "8c0b0f2aac2d77d4dd640612cff57e05c594302916965e723d49ff55c2e71f61",
+    "provenance/scoring-adjudications.json": "9d84f6146f224503b624bbf0183a060e67ad3f748c0ecd57ad52cbdb1e375348",
+    "scripts/build_page.py": "96f848436e13a7f001a55aba50d607d540ef96501ab403e0a0682c0f23797ef4",
+    "scripts/catalog_view.py": "a2d61245eaba3cbdb1ba6711cb2ce2078e0163f9add6097be95df13d56917e40",
+    "provenance/english-completeness-v2.json": "e53afc89b0a2c57f7bdfdfc16fd4d0690f0850475e50ba779f13075a991089a8",
+    "locales/evidence-zh-a.json": "6316b8234a6c9c404d31a19f2fc54300b1214a97f89ca934a1f16ecb438207bc",
+    "locales/evidence-zh-f.json": "e3f6e4849258f4e71c74cf44b63650e1006b2cba69082dc2f25a73c048a725da",
+    "locales/ideas-zh-a1.json": "eff12ca3635a34909eb99952e41114b8e3d9332290b5d4756d8fc83e9b7ebc7f",
+    "locales/ideas-zh-a2.json": "452b65ce3b08e4092f7f1718b9f3f177974914f2350904baa44f4ccebbfadc12",
+    "locales/ideas-zh-f1.json": "90aef6d0b0047c05f6f44e28ce6211a2b547cd08bd1573603ea6b3d236ec4c70",
+    "locales/ideas-zh-f2.json": "60e9da9b7fb1431a7209fbc118d08047c59f735b9771080d0a331b05a98b08dd"
+  }
+}

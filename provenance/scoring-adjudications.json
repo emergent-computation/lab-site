@@ -1,0 +1,139 @@
+{
+  "scope": {
+    "ids": [
+      "F-D03-01",
+      "F-D05-06",
+      "F-D06-08",
+      "F-D09-01",
+      "F-D09-09",
+      "F-D09-10",
+      "F-D10-02",
+      "F-D10-04",
+      "F-D10-05",
+      "F-D10-06"
+    ],
+    "rubricVersion": "UG200-v1",
+    "method": "Factual revision audit of the ten specified records against the cautious Chinese wording and bilingual spot audit. Retain current components unless the corrected proposition changes an anchor-level judgment. This is neither cross-scorer calibration nor aggregate normalization.",
+    "excluded": "No other records, new literature search, endpoint verification, or numerical rescaling. Publication remains conditional; consent and readiness gates remain separate from ranking.",
+    "inputSnapshots": [
+      {
+        "path": "provenance/bilingual-spot-audit.json",
+        "sha256": "f7b652702aa4011149ee11fce678ba4cdc9696032f6a975f9689b01140e8240e"
+      },
+      {
+        "path": "locales/ideas-zh-f1.json",
+        "sha256": "90aef6d0b0047c05f6f44e28ce6211a2b547cd08bd1573603ea6b3d236ec4c70"
+      },
+      {
+        "path": "locales/ideas-zh-f2.json",
+        "sha256": "60e9da9b7fb1431a7209fbc118d08047c59f735b9771080d0a331b05a98b08dd"
+      },
+      {
+        "path": "rubric.json",
+        "sha256": "ec1df6a1621841e091fbd7fc7dc9bda45488650ec1f9c515e9c19032d76109fe"
+      },
+      {
+        "path": "scores.json",
+        "sha256": "81db386b70873bf861d5595cfcf62ed640cdc5af54993433736af6806da3fb28",
+        "role": "Pre-revision input snapshot, before these adjudications and before later provenance/copy updates; the current scores.json is intentionally different."
+      }
+    ],
+    "interpretation": "The Chinese wording supplies a proposed corrected design, not evidence that its reference implementation, access permissions, or experiments have already been validated."
+  },
+  "decisions": [
+    {
+      "id": "F-D03-01",
+      "disposition": "no_change",
+      "reason": "The current assessment already rejects an automatic logarithmic bound and scores protocol-dependent verification at 3, with independence 2. The Chinese wording faithfully preserves that corrected design; no anchor changes."
+    },
+    {
+      "id": "F-D05-06",
+      "disposition": "no_change",
+      "reason": "Current accessibility 2 and independence 2 already reflect mapping and stationary-versus-mixing expertise. Verifiability 4 relies on exact enumeration of a specified binary target, not a claim that phase binning samples it. Conditional publication wording does not change the rubric's already conditional potential score."
+    },
+    {
+      "id": "F-D06-08",
+      "disposition": "no_change",
+      "reason": "The current evidence explicitly limits dissipation interpretation, distinguishes drop energy from a fundamental limit, and assigns publication potential 2 for pedagogical measurement. The corrected truth-table and engineering-energy project remains a scoped measurement note if successful; it does not warrant either a fundamental-physics score or an automatic reduction to no research value."
+    },
+    {
+      "id": "F-D09-01",
+      "disposition": "no_change",
+      "reason": "Current verification evidence and next check already require experimental-choice controls, finite-size checks, and a strong adaptive classical baseline. Resources 4 never relied on a seconds-scale runtime guarantee. Conditional publication language matches the existing anchor."
+    },
+    {
+      "id": "F-D09-09",
+      "disposition": "revise_score",
+      "reason": "Resources 4 assumes an accessible suitable citation-data source. The corrected proposal explicitly leaves the chosen metric/source unverified, which could block its checked correlational result. Resources 2 matches uncertain acquisition/access until one compatible metric is confirmed; this does not assert RCR is unavailable. Other components already account for citation proxies, confounding, and training-memory leakage."
+    },
+    {
+      "id": "F-D09-10",
+      "disposition": "no_change",
+      "reason": "The current verification evidence already says the known adjacency checks results while bound assumptions need matching, and its next check requires observation-model alignment. Removing the categorical novelty assertion adds no new gap evidence and does not change novelty 2."
+    },
+    {
+      "id": "F-D10-02",
+      "disposition": "no_change",
+      "reason": "Current resources 2 already reflects unresolved approval and recruitment; accessibility 2 and independence 2 reflect design burden. Verifiability 3 allows objective quiz scores with uncertain treatment effects. Balanced repeated-measures design clarifies the plan without demonstrating a pilot effect or removing any gate."
+    },
+    {
+      "id": "F-D10-04",
+      "disposition": "no_change",
+      "reason": "Current verification 3 explicitly treats the flare catalog as an imperfect reference. Selection, completeness, and detection-threshold cautions already appear in the evidence and summary. The additional observation-duration control strengthens description without crossing an anchor."
+    },
+    {
+      "id": "F-D10-05",
+      "disposition": "revise_score",
+      "reason": "The original verification 2 was explicitly justified by an unsupported exact model curve. The corrected design instead uses a parameter-specified numerical reference and restricts analytic claims to special cases, yielding a defensible metric/baseline with manageable reference uncertainty: anchor 3. It still lacks an independent exact oracle; privacy, data permission, and optional hardware do not disappear."
+    },
+    {
+      "id": "F-D10-06",
+      "disposition": "no_change",
+      "reason": "Current verification 3 already distinguishes visible make/miss from uncertain inferred trajectories; resources 2 reflects participant access and consent. Athlete-grouped splits and explicit approvals improve the protocol, but do not establish measurement reliability or remove the existing gates. No score increase follows merely from clearer caution."
+    }
+  ],
+  "revisions": [
+    {
+      "id": "F-D09-09",
+      "reason": "Resources 4→2: the chosen citation metric/source remains an unverified dependency for the first checked association result. Retain every other component; confirm rather than presume endpoint availability.",
+      "scores": {
+        "resources": 2
+      },
+      "evidence": {
+        "resources": {
+          "field": "baseline",
+          "reason": "Chosen citation metric has an unverified data source"
+        }
+      },
+      "summary": {
+        "en": "The correlation exercise is approachable, but the citation metric and source must be confirmed. Citations are imperfect proxies, and scoring first does not eliminate model training memory.",
+        "zh": "相关性练习容易起步，但必须先确认引用指标及其来源。引用是有局限的间接指标，先评分也不能消除模型训练记忆。"
+      },
+      "nextCheck": {
+        "en": "Confirm an accessible, explicitly defined citation metric before collecting ratings.",
+        "zh": "收集评分前，确认一种可获取且定义明确的引用指标。"
+      }
+    },
+    {
+      "id": "F-D10-05",
+      "reason": "Verifiability 2→3: the revised baseline replaces the unsupported universal exact curve with a parameter-specified numerical comparison and explicitly limited analytic cases. This improves the proposal's validity without claiming completed validation.",
+      "scores": {
+        "verifiability": 3
+      },
+      "evidence": {
+        "verifiability": {
+          "field": "baseline",
+          "reason": "Parameter-specified numerical curves replace unsupported exact critical-density claims"
+        }
+      },
+      "summary": {
+        "en": "A parameter-specified numerical reference makes traffic comparisons defensible, while data extraction and optional hardware still need validation. Analytic results apply only to explicitly stated special cases.",
+        "zh": "参数明确的数值参考使交通比较有合理依据，但数据提取和可选硬件仍需验证。解析结果仅适用于明确规定的特殊情况。"
+      },
+      "nextCheck": {
+        "en": "Reproduce the specified model setting and quantify trajectory-measurement uncertainty.",
+        "zh": "复现规定的模型设置，并量化轨迹测量的不确定性。"
+      }
+    }
+  ]
+}
