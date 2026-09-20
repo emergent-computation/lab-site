@@ -1,0 +1,722 @@
+{
+  "pageTitle": [
+    "Fieldnotes — find your first research project",
+    "Fieldnotes · 找到你的第一个科研课题"
+  ],
+  "labName": [
+    "EMERGENT COMPUTATION LAB",
+    "涌现计算实验室"
+  ],
+  "skip": [
+    "Skip to research ideas",
+    "跳转到研究课题"
+  ],
+  "navigation": [
+    "Main navigation",
+    "主导航"
+  ],
+  "explore": [
+    "Explore ideas",
+    "探索课题"
+  ],
+  "choose": [
+    "How to choose",
+    "如何选择"
+  ],
+  "shortlist": [
+    "My shortlist",
+    "我的意向"
+  ],
+  "language": [
+    "Language",
+    "语言"
+  ],
+  "heroEyebrow": [
+    "YOUR FIRST CHAPTER IN RESEARCH · FALL 2026",
+    "从这里开始你的科研之旅 · 2026 秋季"
+  ],
+  "heroTitle": [
+    "Start with curiosity.<br>See where it <em>goes.</em>",
+    "从好奇心出发，<br>走向自己的<em>发现。</em>"
+  ],
+  "heroDescription": [
+    "You don’t need a big idea to begin. Just a question you want to answer. Explore small experiments in AI, physics, and a few unexpected places.",
+    "不必一开始就有宏大的想法。找一个你想弄明白的问题，从小实验出发，探索人工智能、物理，以及意想不到的新方向。"
+  ],
+  "findStart": [
+    "Find your starting point",
+    "找到我的起点"
+  ],
+  "heroNote": [
+    "New to research?<br>You’re in the right place.",
+    "还没有科研经验？<br>这里就是你的起点。"
+  ],
+  "artTitle": [
+    "THE ANATOMY OF A GOOD QUESTION",
+    "一个好问题，是怎样长出来的"
+  ],
+  "figure": [
+    "FIG. 01",
+    "图 01"
+  ],
+  "wonder": [
+    "wonder",
+    "好奇"
+  ],
+  "experimentWord": [
+    "experiment",
+    "实验"
+  ],
+  "discover": [
+    "discover",
+    "发现"
+  ],
+  "artCaption": [
+    "One small test. A new way of seeing.",
+    "一个小实验，一种新的看法。"
+  ],
+  "ideaCount": [
+    "{n} ideas to explore",
+    "{n} 个研究设想"
+  ],
+  "pathCount": [
+    "{n} paths into research",
+    "{n} 个探索方向"
+  ],
+  "between": [
+    "AI, physics & everything in between",
+    "从人工智能到物理，也欢迎跨界"
+  ],
+  "about": [
+    "About this collection",
+    "关于这份课题集"
+  ],
+  "followCuriosity": [
+    "FOLLOW YOUR CURIOSITY",
+    "沿着好奇心，选一个方向"
+  ],
+  "topicLabel": [
+    "Research topic",
+    "研究方向"
+  ],
+  "allTopics": [
+    "All directions",
+    "全部方向"
+  ],
+  "sidebarTitle": [
+    "No experience required<br>to be curious.",
+    "没有经验，<br>也可以提出好问题。"
+  ],
+  "sidebarDescription": [
+    "Pick a few that make you wonder. We’ll work out the right scope together.",
+    "先收藏几个让你想继续追问的课题，再和导师一起确定合适的起步范围。"
+  ],
+  "quickGuide": [
+    "A quick guide to choosing ↗",
+    "看看怎么选 ↗"
+  ],
+  "collectionEyebrow": [
+    "A QUESTION IS A GOOD PLACE TO BEGIN",
+    "科研，可以从一个小问题开始"
+  ],
+  "collectionTitle": [
+    "Find your rabbit hole.",
+    "哪个问题，让你想多看一眼？"
+  ],
+  "surprise": [
+    "✳ Surprise me",
+    "✳ 随机探索"
+  ],
+  "search": [
+    "Search all ideas in Chinese or English",
+    "用中文或英文搜索课题"
+  ],
+  "searchPlaceholder": [
+    "Try ‘memory’, ‘Ising’, or ‘music’…",
+    "试试“记忆”“伊辛”或“音乐”…"
+  ],
+  "startingPoint": [
+    "Starting point",
+    "起步建议"
+  ],
+  "anyStarting": [
+    "Any starting point",
+    "所有起步阶段"
+  ],
+  "start": [
+    "Start small",
+    "可从小实验起步"
+  ],
+  "mentor": [
+    "Build some basics",
+    "先补基础与准备"
+  ],
+  "rework": [
+    "Reshape with a mentor",
+    "先与导师调整方案"
+  ],
+  "allIdeas": [
+    "All ideas",
+    "全部课题"
+  ],
+  "startHere": [
+    "Start here",
+    "从这些开始"
+  ],
+  "view": [
+    "Collection view",
+    "浏览范围"
+  ],
+  "interestFilter": [
+    "Filter by interest",
+    "按兴趣筛选"
+  ],
+  "allInterests": [
+    "Every interest",
+    "所有兴趣"
+  ],
+  "ai": [
+    "AI & coding",
+    "人工智能与编程"
+  ],
+  "physics": [
+    "Physics",
+    "物理"
+  ],
+  "open": [
+    "Open exploration",
+    "跨界探索"
+  ],
+  "sortBy": [
+    "Sort by",
+    "排序依据"
+  ],
+  "discoveryOrder": [
+    "Explore across topics",
+    "跨方向推荐浏览"
+  ],
+  "total": [
+    "Overall score",
+    "综合评分"
+  ],
+  "descending": [
+    "High to low ↓",
+    "从高到低 ↓"
+  ],
+  "ascending": [
+    "Low to high ↑",
+    "从低到高 ↑"
+  ],
+  "scoringGuide": [
+    "How scoring works",
+    "评分标准"
+  ],
+  "results": [
+    "{n} ideas",
+    "共 {n} 个课题"
+  ],
+  "balanced": [
+    "a varied selection, not a score ranking",
+    "兼顾方向多样性的精选，不代表分数排名"
+  ],
+  "roomToGrow": [
+    "small beginnings, room to grow",
+    "从小处开始，逐步深入"
+  ],
+  "sortedNote": [
+    "Sorted by {criterion}, {order}; component ties use overall, then browsing order",
+    "按{criterion}{order}排列；分项同分先看总分，再按浏览顺序"
+  ],
+  "highLow": [
+    "high to low",
+    "由高到低"
+  ],
+  "lowHigh": [
+    "low to high",
+    "由低到高"
+  ],
+  "clear": [
+    "Clear filters ×",
+    "清除筛选 ×"
+  ],
+  "emptyTitle": [
+    "No ideas on this trail yet.",
+    "暂时没有匹配的课题。"
+  ],
+  "emptyDescription": [
+    "Try a different keyword or open up your filters.",
+    "换个关键词，或减少一些筛选条件试试。"
+  ],
+  "exploreAll": [
+    "Explore all ideas",
+    "浏览全部课题"
+  ],
+  "more": [
+    "Explore more ideas ↓",
+    "继续探索更多课题 ↓"
+  ],
+  "shown": [
+    "Showing {shown} of {total} ideas",
+    "已展示 {shown} / {total} 个课题"
+  ],
+  "closingEyebrow": [
+    "GOOD RESEARCH BEGINS SMALL",
+    "好的研究，往往从小处开始"
+  ],
+  "closingTitle": [
+    "You’re choosing a question.<br>Not the rest of your life.",
+    "先选一个想探索的问题，<br>不必现在就决定未来。"
+  ],
+  "closingDescription": [
+    "Save a few ideas, jot down what excites you, and bring your shortlist to a lab conversation. Your first project can grow with you.",
+    "收藏几个课题，记下让你感兴趣的地方，带着这份意向清单和导师聊一聊。你的第一个课题，可以和你一起成长。"
+  ],
+  "makeOwn": [
+    "Make it your own ↗",
+    "整理我的意向 ↗"
+  ],
+  "labNameNormal": [
+    "Emergent Computation Lab",
+    "涌现计算实验室"
+  ],
+  "preview": [
+    "Student preview · September 2026",
+    "学生预览版 · 2026 年 9 月"
+  ],
+  "sources": [
+    "Sources & project notes",
+    "资料来源与项目说明"
+  ],
+  "noscript": [
+    "Enable JavaScript to browse ideas and save your shortlist.",
+    "请启用 JavaScript，以浏览课题并保存意向清单。"
+  ],
+  "saveLabel": [
+    "Save to shortlist: {title}",
+    "收藏课题：{title}"
+  ],
+  "removeLabel": [
+    "Remove from shortlist: {title}",
+    "取消收藏：{title}"
+  ],
+  "paperCount": [
+    "{n} starting paper(s)",
+    "{n} 篇入门参考"
+  ],
+  "exploreIdea": [
+    "Explore idea",
+    "了解课题"
+  ],
+  "exploreLabel": [
+    "Explore {title}",
+    "了解：{title}"
+  ],
+  "scoreLabel": [
+    "Common rubric score",
+    "统一标准评分"
+  ],
+  "closeDetails": [
+    "Close project details",
+    "关闭课题详情"
+  ],
+  "questionEyebrow": [
+    "A QUESTION TO EXPLORE",
+    "一个值得探索的问题"
+  ],
+  "saveButton": [
+    "Save to my shortlist +",
+    "加入我的意向 +"
+  ],
+  "savedButton": [
+    "Saved to my shortlist ✓",
+    "已加入我的意向 ✓"
+  ],
+  "firstStep": [
+    "A small first step",
+    "先做一个小尝试"
+  ],
+  "firstMonth": [
+    "Your first month",
+    "第一个月可以做什么"
+  ],
+  "experiment": [
+    "The experiment",
+    "核心实验"
+  ],
+  "baseline": [
+    "Baseline & checks",
+    "如何对照与验证"
+  ],
+  "resources": [
+    "What you’ll need",
+    "需要哪些资源"
+  ],
+  "publicationPath": [
+    "Where it could lead",
+    "如何进一步发展为研究"
+  ],
+  "risk": [
+    "What needs checking",
+    "哪些地方需要特别核实"
+  ],
+  "pivot": [
+    "If the first plan doesn’t work",
+    "如果最初的方案行不通"
+  ],
+  "beforeBegin": [
+    "Before you begin",
+    "开始之前"
+  ],
+  "conditional": [
+    "Publication depends on a still-open question and convincing evidence. Confirm the first-month scope and resources with your mentor.",
+    "能否发表论文，取决于问题是否仍有研究空间、证据是否充分。第一个月的范围与资源需求，请先和导师确认。"
+  ],
+  "readPapers": [
+    "A couple of places to start reading",
+    "可以从这些论文读起"
+  ],
+  "readingDepth": [
+    "Source reading depth",
+    "原课题集的文献阅读范围"
+  ],
+  "referenceNote": [
+    "References are inherited from the original collections; listing a paper does not establish novelty.",
+    "参考文献来自原始课题集；列出文献，并不代表已经确认了课题的新颖性。"
+  ],
+  "related": [
+    "Follow a related question",
+    "看看相关的问题"
+  ],
+  "relatedNote": [
+    "These proposals share tools or ask related questions. They remain distinct scopes.",
+    "这些课题可能共用工具，或从不同角度追问同一类问题；具体研究范围仍各不相同。"
+  ],
+  "connections": [
+    "How these ideas connect",
+    "这些课题有什么联系"
+  ],
+  "original": [
+    "Original proposal & historical assessment",
+    "原始英文方案与历史评分"
+  ],
+  "sourceScore": [
+    "Original {source} score: {value}/{max}; rank {rank}/100 within that source. These historical scores use different rubrics and are not used for website sorting.",
+    "原 {source} 评分：{value}/{max}，在该来源中排名 {rank}/100。两份历史评分的标准不同，不用于本站排序。"
+  ],
+  "originalNote": [
+    "Chinese and English are concise student-facing adaptations. A ten-record Fable spot audit led to documented wording corrections; this is not an expert audit of all translations. Original proposals and historical assessments remain in the downloadable data.",
+    "中英文均为面向学生的简明改写。对 10 个 Fable 课题的抽查促成了有记录的措辞修订，并不代表全部翻译都经过专家审查。原始方案和历史评分保留在可下载数据中。"
+  ],
+  "savedToast": [
+    "Saved to your shortlist",
+    "已加入我的意向"
+  ],
+  "removedToast": [
+    "Removed from your shortlist",
+    "已取消收藏"
+  ],
+  "storageWarning": [
+    "Saved for this page only. Export to keep your choices.",
+    "当前只能保存在此页面中，请导出清单以免丢失。"
+  ],
+  "storageNote": [
+    "Saved only in this browser on this device. Nothing is sent to the lab. Export a copy to keep or share yourself.",
+    "意向与笔记只保存在这台设备的当前浏览器中，不会自动发送给实验室。可以导出一份，自行保存或分享。"
+  ],
+  "storageFailed": [
+    "Browser storage is unavailable. Choices last only while this page is open. Export before closing it.",
+    "浏览器存储不可用，当前选择仅在本页打开时保留。关闭前请先导出。"
+  ],
+  "shortlistEyebrow": [
+    "A FEW QUESTIONS TO TAKE WITH YOU",
+    "把想继续追问的问题，先收集起来"
+  ],
+  "closeShortlist": [
+    "Close shortlist",
+    "关闭意向清单"
+  ],
+  "shortlistTitle": [
+    "Your curiosity, collected.",
+    "我的好奇心清单。"
+  ],
+  "shortlistIntro": [
+    "{n} idea(s) saved. Mark favorites, add a thought, and compare up to three. These are interests, not commitments.",
+    "已收藏 {n} 个课题。标记兴趣程度、写点想法，还可以同时比较最多 3 个课题。这只是意向，不是承诺。"
+  ],
+  "shortlistEmpty": [
+    "Nothing here yet. Bookmark an idea, then come back to compare a few starting points.",
+    "这里还没有课题。先点击课题卡片上的收藏按钮，再回来比较几个可能的起点。"
+  ],
+  "export": [
+    "Export my shortlist ↓",
+    "导出我的意向清单 ↓"
+  ],
+  "compareButton": [
+    "Compare ({n}/3)",
+    "比较课题（{n}/3）"
+  ],
+  "remove": [
+    "Remove",
+    "移除"
+  ],
+  "myInterest": [
+    "My interest",
+    "我的兴趣程度"
+  ],
+  "curious": [
+    "I’m curious",
+    "有点好奇"
+  ],
+  "try": [
+    "I’d like to try it",
+    "想先试一试"
+  ],
+  "favorite": [
+    "One of my favorites",
+    "最感兴趣的方向之一"
+  ],
+  "compareThis": [
+    "Compare this idea",
+    "加入比较"
+  ],
+  "noteQuestion": [
+    "What caught your attention?",
+    "什么地方吸引了你？"
+  ],
+  "notePlaceholder": [
+    "A question, a connection, or something you’d like to learn…",
+    "一个问题、一点联想，或你想学会的东西……"
+  ],
+  "backExplore": [
+    "Back to exploring ↗",
+    "继续探索 ↗"
+  ],
+  "exportTitle": [
+    "My research shortlist",
+    "我的科研意向清单"
+  ],
+  "exportDate": [
+    "Exported {date} · Emergent Computation Lab",
+    "导出日期：{date} · 涌现计算实验室"
+  ],
+  "exportDisclaimer": [
+    "Interests to discuss, not project commitments. Scores are provisional judgments, not publication probabilities.",
+    "这是一份用于讨论的意向清单，不代表已经确定课题。评分是初步判断，不是发表论文的概率。"
+  ],
+  "topic": [
+    "Topic",
+    "方向"
+  ],
+  "myNotes": [
+    "My notes",
+    "我的笔记"
+  ],
+  "noNotes": [
+    "(none yet)",
+    "（暂未填写）"
+  ],
+  "question": [
+    "Question",
+    "研究问题"
+  ],
+  "preparation": [
+    "Preparation",
+    "前期准备"
+  ],
+  "originalTitle": [
+    "Original English proposal",
+    "原始英文题目"
+  ],
+  "papers": [
+    "Papers",
+    "参考论文"
+  ],
+  "exported": [
+    "Shortlist exported. Share it when you’re ready.",
+    "清单已导出，可以在准备好后自行分享。"
+  ],
+  "compareEyebrow": [
+    "FIND THE QUESTION THAT FITS YOU",
+    "找到更适合自己的问题"
+  ],
+  "closeCompare": [
+    "Close comparison",
+    "关闭课题比较"
+  ],
+  "compareTitle": [
+    "Different paths. Your choice.",
+    "不同的路径，由你来选。"
+  ],
+  "compareIntro": [
+    "Compare the work, preparation, and common-rubric scores. Small score differences are not decisive; your interests matter.",
+    "一起看看实际要做什么、需要哪些准备，以及统一标准下的分项评分。细小分差不必看得太重，你的兴趣同样重要。"
+  ],
+  "compareRegion": [
+    "Project comparison; scroll horizontally on small screens",
+    "课题比较表；小屏幕可横向滚动"
+  ],
+  "project": [
+    "Project",
+    "课题"
+  ],
+  "compareLimit": [
+    "Compare up to three ideas at a time.",
+    "一次最多比较 3 个课题。"
+  ],
+  "emptySurprise": [
+    "Open up your filters to find a new question.",
+    "先放宽一些筛选条件，再发现一个新问题。"
+  ],
+  "closeInfo": [
+    "Close information",
+    "关闭说明"
+  ],
+  "guideTitle": [
+    "Follow the question.<br>Start with something small.",
+    "沿着问题走，<br>从一个小尝试开始。"
+  ],
+  "aboutTitle": [
+    "Two collections.<br>More paths to explore.",
+    "两份课题集，<br>更多值得探索的起点。"
+  ],
+  "guideStep1Title": [
+    "Follow your interests.",
+    "先跟着兴趣走。"
+  ],
+  "guideStep1": [
+    "Try a familiar topic and one you know nothing about. Your major doesn’t limit your choices.",
+    "选一个熟悉的方向，再看看一个完全陌生的方向。专业不必成为选择的边界。"
+  ],
+  "guideStep2Title": [
+    "Picture the first experiment.",
+    "想象一下第一个实验。"
+  ],
+  "guideStep2": [
+    "Read the first-month plan and resources. Would you enjoy the small task, even if the result surprises you?",
+    "读一读首月计划和资源需求。即使结果和预想不同，你是否仍愿意做这个小实验？"
+  ],
+  "guideStep3Title": [
+    "Save a few possibilities.",
+    "先保留几种可能。"
+  ],
+  "guideStep3": [
+    "Bookmark three to five ideas and note why they caught your eye. Use scores as one reference, not a decision made for you.",
+    "收藏 3—5 个课题，记下感兴趣的原因。评分可以参考，但不必替你做决定。"
+  ],
+  "guideStep4Title": [
+    "Try a starter exercise with a mentor.",
+    "和导师商量一个起步练习。"
+  ],
+  "guideStep4": [
+    "Bring your shortlist to a lab conversation. Agree on a small test and the support you need before choosing a longer project.",
+    "带着清单和导师聊一聊，先确定一个小测试以及需要的支持，再决定是否长期开展。"
+  ],
+  "startMeaning": [
+    "A beginner-sized exercise is proposed.",
+    "已有一个适合新手尝试的小练习设想。"
+  ],
+  "mentorMeaning": [
+    "Plan prerequisite learning, setup, or access with a mentor.",
+    "需要先与导师安排基础学习、环境搭建或资源获取。"
+  ],
+  "reworkMeaning": [
+    "The research question or starter scope needs revision.",
+    "研究问题或起步范围还需要调整。"
+  ],
+  "readinessCaveat": [
+    "Readiness labels are proposal assessments, not student trials. A high score does not remove a preparation requirement.",
+    "起步建议来自方案评估，尚未经过新生实际试做。分数较高，也不意味着可以跳过必要准备。"
+  ],
+  "aboutCollections": [
+    "Fieldnotes combines 100 Astra proposals and 100 Fable proposals for new undergraduates, organized into 12 shared topics. All original proposals remain available.",
+    "Fieldnotes 为新加入实验室的本科生整合了 Astra 与 Fable 各 100 个研究设想，按 12 个共同方向组织，保留全部原始方案。"
+  ],
+  "aboutSelection": [
+    "Related questions are linked. “Start here” contains twelve varied examples, six from each source. The default browsing order favors breadth; score sorting is optional.",
+    "相关课题之间可以相互跳转。“从这些开始”挑选了双方各 6 个例子。默认顺序兼顾方向多样性，也可以切换为按总分或分项排序。"
+  ],
+  "aboutScores": [
+    "All 200 projects use the same eight criteria. Historical scores are preserved, not converted. Two model assessors received packets without old scores or ranks, but reused session context, so this was not fully blind. The later ten-record factual revision audit covered Fable proposals only; the sources did not receive equal revision scrutiny.",
+    "全部 200 个课题按同一套八维标准评估，历史评分保留而不换算。两位模型评分者使用不含旧分数和排名的材料，但沿用了会话上下文，因此并非完全盲评。后续十项事实修订审查仅覆盖 Fable 课题，双方接受的修订检查并不等量。"
+  ],
+  "aboutLiterature": [
+    "Literature checks remain preliminary. References, resource estimates, and publication paths come from the source proposals. This revision adds no full novelty audit; no publication is guaranteed.",
+    "文献检查仍较为初步，参考资料、资源估计和论文路径来自原方案。本次修订没有增加完整的新颖性审查，也不保证任何课题一定能发表论文。"
+  ],
+  "aboutPrivacy": [
+    "Choices and notes stay in your browser. There are no accounts, analytics, or automatic submissions. Export and share the list yourself.",
+    "你的意向和笔记保存在浏览器本地。这里没有账户、访问统计或自动提交；需要时可自行导出并分享。"
+  ],
+  "downloadCatalog": [
+    "Download the bilingual catalog & scores ↓",
+    "下载双语课题与评分数据 ↓"
+  ],
+  "scoreTitle": [
+    "One rubric. Eight useful perspectives.",
+    "一套标准，从八个角度看课题。"
+  ],
+  "scoreIntro": [
+    "Every project is assessed afresh against the same 0–5 anchors. Higher is more favorable for this beginner cohort. The weighted total is out of 100.",
+    "全部课题按同一套 0—5 分标准重新评估。分数越高，表示在该维度上越适合本届新生；按权重合成 100 分制总分。"
+  ],
+  "scoreFormula": [
+    "Overall = Σ(weight × component ÷ 5). These are provisional model judgments, not measured success or publication probabilities.",
+    "总分 = Σ（权重 × 分项分 ÷ 5）。这些是模型对方案的初步判断，不是实测成功率，也不是论文发表概率。"
+  ],
+  "scoreCaveat": [
+    "No fresh full literature audit or student pilot was run. Novelty is capped at 3/5, and publication potential and inferred engagement at 4/5, for both sources. Component ties use overall score first; remaining ties use a fixed browsing order that alternates sources globally while rotating topics. Tie order is for display, not evidence of superiority.",
+    "尚未进行新的完整文献审查或新生试做。双方课题的新颖性最高为 3/5，论文潜力与推测兴趣最高为 4/5。分项同分时先比较总分，其余同分按双方来源交替、方向轮换的固定浏览顺序排列；先后顺序不代表优劣。"
+  ],
+  "criterion": [
+    "Criterion",
+    "评分维度"
+  ],
+  "weight": [
+    "Weight",
+    "权重"
+  ],
+  "score": [
+    "Score",
+    "得分"
+  ],
+  "evidence": [
+    "Assessment basis",
+    "判断依据"
+  ],
+  "scoreSummary": [
+    "Why this assessment",
+    "为什么这样评分"
+  ],
+  "scoreVersion": [
+    "Rubric version",
+    "评分版本"
+  ],
+  "scoreNote": [
+    "Provisional assessment; read the preparation and research risks too.",
+    "初步评估，请同时阅读前期准备和研究风险。"
+  ],
+  "scoreDetails": [
+    "View all eight components",
+    "查看全部八个分项"
+  ],
+  "historical": [
+    "Historical source scores are retained for provenance only.",
+    "历史评分仅作为来源记录保留。"
+  ],
+  "calibration": [
+    "The eight shared cases retain both judgments. Assessor 2 was 1.875 total points higher on average, including +0.625/5 on publication potential; near-ties can depend on assessor assignment. No offset was subtracted.",
+    "八个共同样例保留双方判断。评分者 2 的总分平均高 1.875 分，其中论文潜力平均高 0.625/5；接近的分数可能受评分者分配影响。未人为扣除这一差值。"
+  ],
+  "scoreDepth": [
+    "These scores assess the proposal as written, not the student's ability.",
+    "这里评估的是课题方案，不是学生个人的能力。"
+  ],
+  "calibrationNumbers": [
+    "On {n} shared examples, the two assessors differed by {d} points on average (absolute difference, out of 100). These selected cases do not estimate uncertainty for all projects.",
+    "在 {n} 个共同样例上，两位评分者的总分平均相差 {d} 分（100 分制的绝对差）。这些选定样例不能代表全部课题的评分误差。"
+  ],
+  "assessor": [
+    "Model assessor {id}",
+    "模型评分者 {id}"
+  ]
+}

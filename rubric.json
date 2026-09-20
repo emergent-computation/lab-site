@@ -1,0 +1,254 @@
+{
+  "version": "UG200-v1",
+  "date": "2026-09-20",
+  "criteria": [
+    {
+      "key": "accessibility",
+      "weight": 20,
+      "label": {
+        "en": "Easy to start",
+        "zh": "入门友好度"
+      },
+      "high_score_meaning": {
+        "en": "Easier, faster first meaningful result",
+        "zh": "更容易、更快获得第一个有意义的结果"
+      },
+      "boundary": "Judge the proposed starter exercise, assuming the stated mentor introduction is supplied; do not score the entire research extension. Record first-result weeks separately. If ease and speed disagree, use the lower anchor; do not average away a prerequisite barrier.",
+      "anchors": {
+        "0": "No coherent feasible beginner starter is specified.",
+        "1": "Requires several advanced prerequisites or more than a semester before an interpretable result.",
+        "2": "A starter exists but needs substantial prerequisite study or roughly 6–12 weeks.",
+        "3": "Guided basic programming/math and roughly 3–6 weeks can produce a defined result.",
+        "4": "A tutorial-sized exercise with basic programming and roughly 2–4 weeks can produce a checked result.",
+        "5": "A provided or clearly specified tiny exercise needs only introductory concepts and can yield a checked result in roughly 1–2 weeks."
+      },
+      "description": {
+        "en": "Judge the proposed starter exercise, assuming the stated mentor introduction is supplied; do not score the entire research extension. Record first-result weeks separately. If ease and speed disagree, use the lower anchor; do not average away a prerequisite barrier.",
+        "zh": "只看所提出的入门练习，假定已获得说明中承诺的导师入门指导；不按整个研究扩展评分。看基础要求和首个可解释结果的时间；两者不一致时按较弱的一项判断。"
+      },
+      "anchorsZh": {
+        "0": "没有可行、清晰的新手起步任务。",
+        "1": "需多项高阶基础，或一个学期后才可能得到可解释结果。",
+        "2": "需较多预备学习，或约 6—12 周才有首个结果。",
+        "3": "经过基础编程或数学指导，约 3—6 周可得到明确结果。",
+        "4": "教程规模的小练习，约 2—4 周能得到经过检查的结果。",
+        "5": "已提供或明确规定的微型练习，仅需入门概念，约 1—2 周能得到可检查结果。"
+      }
+    },
+    {
+      "key": "learningLadder",
+      "weight": 10,
+      "label": {
+        "en": "Learning path",
+        "zh": "学习成长路径"
+      },
+      "boundary": "Score the usefulness and continuity of the rungs, not speed or predicted novelty.",
+      "anchors": {
+        "0": "No learning deliverable is identifiable.",
+        "1": "Only an ambitious final result; failure leaves little reusable work.",
+        "2": "A reproduction exercise exists but the next rung is vague.",
+        "3": "Reproduction and one clear extension each produce useful outputs.",
+        "4": "Three connected rungs have concrete outputs and a useful null-result pivot.",
+        "5": "Each rung has explicit checks, transferable skills, and a fallback that remains valuable if the next rung fails."
+      },
+      "description": {
+        "en": "Score the usefulness and continuity of the rungs, not speed or predicted novelty.",
+        "zh": "看复现、扩展到研究之间是否有清晰台阶；即使后续失败，前面的成果也有学习价值。"
+      },
+      "anchorsZh": {
+        "0": "没有明确的学习产出。",
+        "1": "仅有宏大的终点，失败后几乎没有可复用成果。",
+        "2": "有复现练习，但下一步不明确。",
+        "3": "复现及一个清晰扩展都能产生有用成果。",
+        "4": "有三个连贯阶段，并有阴性结果也有用的转向方案。",
+        "5": "每个阶段都有明确检查、可迁移技能和有价值的备选路径。"
+      }
+    },
+    {
+      "key": "verifiability",
+      "weight": 10,
+      "label": {
+        "en": "Clear ways to check results",
+        "zh": "结果可验证性"
+      },
+      "boundary": "Distinguish exact ground truth, noisy reference data, proxy measures, and subjective outcomes. A simulation is not automatically correct merely because it produces numbers.",
+      "anchors": {
+        "0": "The central claim has no defined observable test.",
+        "1": "Success depends mainly on unvalidated subjective judgment.",
+        "2": "A measurable proxy exists but its relation to the claim is unresolved.",
+        "3": "A defensible metric and baseline exist, with manageable reference uncertainty.",
+        "4": "Known targets or strong controls support reproducible tests; uncertainty and failure cases are explicit.",
+        "5": "An independent exact oracle or decisive controlled test verifies the central starter claim and exposes implementation errors."
+      },
+      "description": {
+        "en": "Distinguish exact ground truth, noisy reference data, proxy measures, and subjective outcomes. A simulation is not automatically correct merely because it produces numbers.",
+        "zh": "看是否有明确指标、可靠对照和正确性检查。近似参考或间接指标不等于精确答案。"
+      },
+      "anchorsZh": {
+        "0": "核心主张没有可观测的检验方式。",
+        "1": "主要依赖未验证的主观判断。",
+        "2": "有可测的间接指标，但与核心主张的关系尚不清楚。",
+        "3": "有合理指标与对照，参考的不确定性可处理。",
+        "4": "已知目标或有力控制支持可复现实验，明确考虑不确定性和失败情况。",
+        "5": "独立的精确答案或决定性对照可检验起步任务的核心主张并暴露实现错误。"
+      }
+    },
+    {
+      "key": "publicationPotential",
+      "weight": 15,
+      "label": {
+        "en": "Research potential",
+        "zh": "论文潜力"
+      },
+      "boundary": "Conditional value of a successful, sufficiently new result. Do not use venue prestige, a source author's optimism, or novelty uncertainty as substitutes for substantive contribution.",
+      "anchors": {
+        "0": "No research claim or reusable scholarly contribution is identifiable.",
+        "1": "The stated outcome is mainly a learning demonstration.",
+        "2": "A scoped replication, measurement note, or useful artifact could be supported.",
+        "3": "A clear question and controls could support a substantive bounded contribution.",
+        "4": "A successful result could explain a mechanism, validate a useful method, or resolve a consequential uncertainty across convincing conditions.",
+        "5": "Exceptionally strong, already substantiated evidence of broad research importance and a feasible route to it; unavailable to this unpiloted campaign."
+      },
+      "current_cap": 4,
+      "description": {
+        "en": "Conditional value of a successful, sufficiently new result. Do not use venue prestige, a source author's optimism, or novelty uncertainty as substitutes for substantive contribution.",
+        "zh": "假设结果成立且确有新意，它能否形成有意义的机制解释、方法、测量或研究工具；不按期刊名气评分。"
+      },
+      "anchorsZh": {
+        "0": "没有明确的研究主张或学术贡献。",
+        "1": "主要是教学演示。",
+        "2": "可形成有范围的复现、测量笔记或有用工具。",
+        "3": "问题与对照明确，可能形成有实质内容的小范围贡献。",
+        "4": "若结果成立，可能解释机制、验证有用方法或解决重要的不确定问题。",
+        "5": "已有充分证据支持广泛重要性和可行路线；本次未试做课题不使用此档。"
+      }
+    },
+    {
+      "key": "novelty",
+      "weight": 15,
+      "label": {
+        "en": "Evidence for a new angle",
+        "zh": "新颖性证据"
+      },
+      "boundary": "Score support for a specific unresolved gap. Unsearched is unknown, not novel. Broad background citations alone do not establish an open gap.",
+      "anchors": {
+        "0": "The central proposed result is directly established by identified prior work with no remaining extension.",
+        "1": "Known overlap is substantial; a meaningful distinction has not been specified.",
+        "2": "A plausible distinction is stated, but the closest precedent or decisive comparison is missing.",
+        "3": "A specific distinction from named prior work is defensible from available evidence, but novelty remains provisional.",
+        "4": "A recent targeted audit compares the exact claim with its closest precedents and supports a clear open gap; equivalent audit coverage is required across candidates.",
+        "5": "An unusually strong gap is supported by comprehensive expert scrutiny and relevant full-text comparisons; unavailable to this campaign."
+      },
+      "current_cap": 3,
+      "cap_exception": "Do not grant 4 solely because one source's old shallow audit called an idea clear or twist-ok. A later review may allow 4 only after a documented comparable targeted audit, dated and tied to the exact current claim. No automatic upward replacement with an old audit's numeric score.",
+      "description": {
+        "en": "Score support for a specific unresolved gap. Unsearched is unknown, not novel. Broad background citations alone do not establish an open gap.",
+        "zh": "看现有证据是否支持一个尚未解决的具体问题。没有查到相关工作，不等于没有相关工作。"
+      },
+      "anchorsZh": {
+        "0": "已有研究直接建立了拟提出的核心结果，且没有剩余扩展。",
+        "1": "与已知工作高度重叠，尚未说明有意义的区别。",
+        "2": "提出了合理区别，但缺少最近先例或关键比较。",
+        "3": "与指定先例的具体区别有一定依据，但新颖性仍待核实。",
+        "4": "近期针对精确主张和最近先例的可比审查支持明确空缺；本轮不使用此档。",
+        "5": "有全面专家审查与相关全文比较支持特别明确的空缺；本轮不使用此档。"
+      }
+    },
+    {
+      "key": "independence",
+      "weight": 10,
+      "label": {
+        "en": "Room to work independently",
+        "zh": "独立推进空间"
+      },
+      "boundary": "Recurring mentor judgment after the starter, not whether an introductory example or initial equipment setup is needed.",
+      "anchors": {
+        "0": "Nearly every meaningful action requires unavailable expert intervention.",
+        "1": "An expert must design or interpret most steps throughout.",
+        "2": "Frequent expert decisions are needed, though the student can run assigned work.",
+        "3": "The student owns routine experiments with scheduled mentor interpretation checkpoints.",
+        "4": "Explicit controls and decisions permit most iteration independently after setup.",
+        "5": "Clear diagnostics, baselines, and fallback rules support substantial independent iteration and interpretation."
+      },
+      "description": {
+        "en": "Recurring mentor judgment after the starter, not whether an introductory example or initial equipment setup is needed.",
+        "zh": "看起步指导之后，学生能否自己安排常规实验、判断结果并迭代；持续依赖专家解释会降低分数。"
+      },
+      "anchorsZh": {
+        "0": "几乎每一步都需要无法获得的专家介入。",
+        "1": "大多数步骤都需要专家设计或解释。",
+        "2": "学生能执行分配的工作，但频繁需要专家决策。",
+        "3": "学生负责常规实验，在定期指导时讨论解释。",
+        "4": "完成搭建后，可按明确的控制与决策规则自主迭代。",
+        "5": "诊断、对照与失败转向规则清楚，支持较充分的独立迭代和解释。"
+      }
+    },
+    {
+      "key": "resources",
+      "weight": 10,
+      "label": {
+        "en": "Accessible resources",
+        "zh": "资源友好度"
+      },
+      "boundary": "Compute, API expense, hardware, data access, licensing, and one-time setup burden. Exclude recurring intellectual supervision, already counted under independence. Treat quoted costs as estimates; do not invent current prices or access.",
+      "anchors": {
+        "0": "An essential resource or permission is unavailable with no workable substitute.",
+        "1": "Major hardware, data, infrastructure, or funding dependencies are unresolved.",
+        "2": "Nontrivial acquisition/setup or uncertain access could block the starter.",
+        "3": "Modest paid compute, shared equipment, or data preparation is needed with a plausible bounded plan.",
+        "4": "Ordinary laptop plus small bounded API/download needs; no major access barrier is identified.",
+        "5": "A small local CPU or already accessible public-data exercise needs negligible spending and little setup."
+      },
+      "description": {
+        "en": "Compute, API expense, hardware, data access, licensing, and one-time setup burden. Exclude recurring intellectual supervision, already counted under independence. Treat quoted costs as estimates; do not invent current prices or access.",
+        "zh": "看计算、API、硬件、数据权限和一次性搭建负担。越容易获取越高；持续的学术指导计入独立推进项。"
+      },
+      "anchorsZh": {
+        "0": "必需资源或权限无法获得，且没有可行替代。",
+        "1": "主要硬件、数据、基础设施或经费依赖尚未解决。",
+        "2": "资源获取或搭建负担较大，或权限不确定可能阻碍起步。",
+        "3": "需适量付费计算、共享设备或数据准备，已有合理的受限计划。",
+        "4": "普通电脑加少量受限 API 或下载需求，未发现重大访问障碍。",
+        "5": "小规模本地 CPU 或可获得的公开数据练习，花费和搭建负担很低。"
+      }
+    },
+    {
+      "key": "engagement",
+      "weight": 10,
+      "label": {
+        "en": "Potential appeal",
+        "zh": "兴趣吸引力"
+      },
+      "boundary": "Editorial estimate of concrete feedback, student choice, and understandable purpose. Do not infer student preferences from major or reward flashy visuals alone.",
+      "anchors": {
+        "0": "No intelligible question or student-visible outcome is given.",
+        "1": "Mostly repetitive work with little ownership or interpretable feedback.",
+        "2": "Some understandable feedback, but the purpose or choice of direction is limited.",
+        "3": "A relatable question, tangible progress, and meaningful student decisions.",
+        "4": "Several routes to ownership and sustained curiosity through audible, visual, conceptual, or personally meaningful feedback.",
+        "5": "Strong sustained appeal demonstrated by actual student trials or stated preferences; unavailable before student feedback."
+      },
+      "current_cap": 4,
+      "description": {
+        "en": "Editorial estimate of concrete feedback, student choice, and understandable purpose. Do not infer student preferences from major or reward flashy visuals alone.",
+        "zh": "根据可理解的目标、反馈和自主选择空间推测吸引力；这不是学生问卷或偏好测量。"
+      },
+      "anchorsZh": {
+        "0": "没有可理解的问题或学生可观察的结果。",
+        "1": "主要是重复劳动，自主性和可理解反馈很少。",
+        "2": "有部分反馈，但目标或选择方向的空间有限。",
+        "3": "问题易产生联系，有明确进展和学生可做的决定。",
+        "4": "通过可听、可见、概念性或个人有意义的反馈，多条路径支持自主探索。",
+        "5": "真实学生试做或明确偏好显示持续吸引力；本轮不使用此档。"
+      }
+    }
+  ],
+  "formula": "sum(weight * score / 5)",
+  "caps": {
+    "novelty": 3,
+    "publicationPotential": 4,
+    "engagement": 4
+  },
+  "purpose": "Fresh shared assessment of written proposals for beginner undergraduates; no new literature search or student outcomes.",
+  "readinessSeparate": true
+}

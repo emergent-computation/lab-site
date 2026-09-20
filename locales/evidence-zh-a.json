@@ -1,0 +1,1002 @@
+{
+  "A-D01-01": {
+    "accessibility": "列表与小型分页目录适合新手练习。",
+    "learningLadder": "界面对比和第二类目录构成逐步进阶。",
+    "verifiability": "逐页穷举提供准确答案，并控制调用预算。",
+    "publicationPotential": "有望形成范围明确的界面研究或回归测试工具。",
+    "novelty": "分页已很成熟，行为差别尚待验证。",
+    "independence": "学生可独立改变目录，定期请导师核对因果解释。",
+    "resources": "合成目录与有限短调用所需资源较少。",
+    "engagement": "漏掉商品是具体且容易理解的失败。"
+  },
+  "A-D01-02": {
+    "accessibility": "40个小型标注搜索仅需字典与比例统计。",
+    "learningLadder": "规则练习可延伸到接口约定及跨任务复现。",
+    "verifiability": "完整扫描与三状态规则可独立核对答案。",
+    "publicationPotential": "覆盖范围约定可能形成明确的可靠性贡献。",
+    "novelty": "空结果相同时的覆盖差别合理，但未经验证。",
+    "independence": "若标记即可解决，可明确最小接口约定。",
+    "resources": "生成记录与调用上限控制了资源需求。",
+    "engagement": "空搜索带来易理解的不确定性与界面选择。"
+  },
+  "A-D01-03": {
+    "accessibility": "5个检查器及对应错误调用较易上手。",
+    "learningLadder": "匹配模板、迁移与泄露诊断形成进阶步骤。",
+    "verifiability": "准确条件检查和防答案泄露使评分可复现。",
+    "publicationPotential": "未见条件上的迁移可能支持有用界面结论。",
+    "novelty": "所引恢复评测不同于受控比较反馈信息。",
+    "independence": "匹配条件与明确转向规则方便独立迭代。",
+    "resources": "笔记本与有限调用避免较大准备成本。",
+    "engagement": "学生能查看并修复具体工具故障。"
+  },
+  "A-D01-04": {
+    "accessibility": "包裹限值只需基础运算与明确测试。",
+    "learningLadder": "边界检查可扩展为跨领域误差分解。",
+    "verifiability": "十进制运算提供独立且精确的不等式判据。",
+    "publicationPotential": "表示精度与边界余量的相互作用可支持聚焦审查。",
+    "novelty": "标准化已有方法，尚缺最贴近的先例比较。",
+    "independence": "若仅是算术错误，可明确转向回归测试。",
+    "resources": "合成输入与有限调用的需求较低。",
+    "engagement": "边界案例呈现易懂的错误和界面选择。"
+  },
+  "A-D01-05": {
+    "accessibility": "10项清单的混合结果只需基础状态跟踪。",
+    "learningLadder": "格式、错误分离和移除模型的边界可分步研究。",
+    "verifiability": "确定性状态模板提供独立、完全准确的参照。",
+    "publicationPotential": "有望形成小范围报告研究或实用回归测试工具。",
+    "novelty": "固定执行后的汇报问题有别于已有重试研究。",
+    "independence": "准确状态与明确转向条件便于独立比较。",
+    "resources": "合成状态与有限推理所需资源较少。",
+    "engagement": "学生可查看操作和报告之间的具体矛盾。"
+  },
+  "A-D01-06": {
+    "accessibility": "3个规则条件和可枚举请求使任务紧凑。",
+    "learningLadder": "规则练习可延伸到例外成本及措辞迁移。",
+    "verifiability": "确定性解释器可独立标注请求是否合法。",
+    "publicationPotential": "可复现的误拒成本分析可能支持界面建议。",
+    "novelty": "过度限制的区别尚缺最接近的防护权衡比较。",
+    "independence": "规则形式化的负担提供明确缩小范围的依据。",
+    "resources": "合成预约与调用上限使资源需求较低。",
+    "engagement": "防护误拒正常任务带来贴近生活的设计选择。"
+  },
+  "A-D01-07": {
+    "accessibility": "小通讯录与两次检查仅需基础集合和概率。",
+    "learningLadder": "理想分配、廉价规则及迁移可逐步展开。",
+    "verifiability": "穷举状态差异可独立验证检查选择。",
+    "publicationPotential": "能预测复查价值的规则可能形成实质方法贡献。",
+    "novelty": "所引故障研究不同于有限预算的检查分配。",
+    "independence": "准确对照和无收益时的转向规则支持独立研究。",
+    "resources": "小型生成流程与有限调用所需资源较少。",
+    "engagement": "学生需判断哪些可能错误值得花钱检查。"
+  },
+  "A-D01-08": {
+    "accessibility": "四状态队列是具体的小型编程练习。",
+    "learningLadder": "模拟器可延伸到两个领域的界面对比。",
+    "verifiability": "有限状态控制器可独立核对最终取消状态。",
+    "publicationPotential": "协议理解混淆的测量可支持范围明确的设计建议。",
+    "novelty": "智能体混淆请求确认的差别合理但尚未验证。",
+    "independence": "若清晰状态名称即可解决，便有明确停止条件。",
+    "resources": "本地模拟与调用上限限制开销。",
+    "engagement": "过早宣布完成使界面选择直观可见。"
+  },
+  "A-D01-09": {
+    "accessibility": "虚构联系人和受控重名只需基础查找逻辑。",
+    "learningLadder": "重名测试和跨领域迁移可依次产出结果。",
+    "verifiability": "准确编号和澄清标签可独立验证记录选择。",
+    "publicationPotential": "可迁移确认策略可能支持聚焦的智能体研究。",
+    "novelty": "实体匹配已有先例，仍可考查检索到修改的边界。",
+    "independence": "明确歧义标签及无收益转向支持独立迭代。",
+    "resources": "虚构记录与有限调用资源需求较低。",
+    "engagement": "学生能直观看到改错联系人的后果。"
+  },
+  "A-D01-10": {
+    "accessibility": "30条人工记录只需基础断言与集合。",
+    "learningLadder": "离线评估器可扩展到真实记录与回归案例。",
+    "verifiability": "允许写入判据可独立区分合理和连带修改。",
+    "publicationPotential": "经验证的评估缺陷可能改进重要的可靠性测量。",
+    "novelty": "相对现有状态评估器，具体盲点仍未证明。",
+    "independence": "若现有约定已相同，就有明确停止创新主张的依据。",
+    "resources": "起步不需模型推理，本地计算量极小。",
+    "engagement": "正确答案掩盖损害，带来具体的调查选择。"
+  },
+  "A-D02-01": {
+    "accessibility": "短指令模板仅需基础集合与逻辑。",
+    "learningLadder": "压缩对照和结构化记忆迁移可逐步进阶。",
+    "verifiability": "模板解析与不压缩对照提供准确参照。",
+    "publicationPotential": "逻辑保真干预可能形成聚焦的记忆研究贡献。",
+    "novelty": "已有结构化记忆仍留有量词敏感性的具体比较。",
+    "independence": "准确后果和转查读取环节的规则帮助独立迭代。",
+    "resources": "合成历史与有限调用资源需求较低。",
+    "engagement": "学生可观察一个逻辑词丢失如何改变行动。"
+  },
+  "A-D02-02": {
+    "accessibility": "50道字典查询只需初步检索概念。",
+    "learningLadder": "笔记起步任务可延伸到跨领域筛选权衡。",
+    "verifiability": "生成范围标签可独立检查串线和找回率。",
+    "publicationPotential": "范围筛选的权衡可能支持聚焦界面贡献。",
+    "novelty": "重名冲突为已有记忆范围测试提供狭窄扩展。",
+    "independence": "简单筛选若成功，可明确限制研究主张。",
+    "resources": "虚构笔记与有限调用避免重大资源障碍。",
+    "engagement": "共享姓名产生熟悉的错误与具体选择。"
+  },
+  "A-D02-03": {
+    "accessibility": "短合成事件排序只需基础排序和比较。",
+    "learningLadder": "压缩扫描、刷新测试及复现形成进阶步骤。",
+    "verifiability": "时间戳表和匹配摘要提供受控真值。",
+    "publicationPotential": "测得的刷新安排可能支持有用的记忆研究。",
+    "novelty": "已知摘要漂移仍可作受控因果比较。",
+    "independence": "准确顺序与明确无收益转向支持独立迭代。",
+    "resources": "几百次调用适合有预算上限的笔记本流程。",
+    "engagement": "传话游戏式错误具体且容易查看。"
+  },
+  "A-D02-04": {
+    "accessibility": "40段标注历史构成小型记录练习。",
+    "learningLadder": "错误看板可延伸到干预及外部验证。",
+    "verifiability": "生成事实编号提供独立的阶段标签。",
+    "publicationPotential": "归因可能改进不同阶段的修复选择。",
+    "novelty": "可见内容匹配的设计有别于已有记忆阶段评测。",
+    "independence": "若提示泄露答案，有明确重新设计规则。",
+    "resources": "笔记本与有限调用避免重大使用障碍。",
+    "engagement": "丢失记忆提供具体的诊断选择与反馈。"
+  },
+  "A-D02-05": {
+    "accessibility": "日历日志与简单SQL计数适合新手。",
+    "learningLadder": "单项查询对比及混合计数可逐步进阶。",
+    "verifiability": "去重后的SQL计数提供独立准确答案。",
+    "publicationPotential": "成对诊断可能形成有用且范围明确的工具。",
+    "novelty": "已有统计问题仍留有同一历史内受控比较的切入点。",
+    "independence": "准确事件身份与明确转向支持独立迭代。",
+    "resources": "合成日志与有限推理资源需求较低。",
+    "engagement": "学生可查看为何记得事实却仍数错次数。"
+  },
+  "A-D02-06": {
+    "accessibility": "5任务穷举只需入门循环和代价计算。",
+    "learningLadder": "排程练习可延伸到实际执行可靠性测量。",
+    "verifiability": "穷举排程可准确核对最优加权延误。",
+    "publicationPotential": "分开评价记忆与执行可形成聚焦贡献。",
+    "novelty": "资源竞争是对所引意图存储的具体扩展。",
+    "independence": "必需的排程基线能组织大部分常规比较。",
+    "resources": "合成时钟和有限调用所需资源较少。",
+    "engagement": "冲突期限带来易懂选择和直观权衡。"
+  },
+  "A-D02-07": {
+    "accessibility": "短记录和队列事件适合入门编程。",
+    "learningLadder": "阶段追踪与任务迁移形成连贯进阶。",
+    "verifiability": "所需字段覆盖与队列程序提供准确参照。",
+    "publicationPotential": "传输与真正采用结果的区别可能支持协作研究。",
+    "novelty": "已有协作失败仍留有具体停止规则比较。",
+    "independence": "有限状态和无收益转向规则支持独立迭代。",
+    "resources": "本地消息与有限调用免去分布式设施成本。",
+    "engagement": "学生可看到收到的工作为何没进入报告。"
+  },
+  "A-D02-08": {
+    "accessibility": "硬币报告需指导学习条件概率与来源关系。",
+    "learningLadder": "小型证据核算可延伸到校准和查询任务。",
+    "verifiability": "已知根来源与精确概率可独立验证证据核算。",
+    "publicationPotential": "来源处理边界可能形成聚焦的协作证据。",
+    "novelty": "重复信息消除已有研究，协调者差别尚未验证。",
+    "independence": "确定性去重提供明确的解释边界。",
+    "resources": "生成硬币来源树与有限调用资源需求较低。",
+    "engagement": "误把重复证据当独立证据带来概念反馈。"
+  },
+  "A-D02-09": {
+    "accessibility": "小型要求表只需基础集合与贪心算法。",
+    "learningLadder": "覆盖诊断与任务迁移可依次产出结果。",
+    "verifiability": "生成能力矩阵可独立核对是否有人负责。",
+    "publicationPotential": "区分分配与解题失败可能支持聚焦协作研究。",
+    "novelty": "已有团队失败仍留有执行前覆盖的具体区别。",
+    "independence": "准确要求与转查任务说明的规则支持独立工作。",
+    "resources": "合成角色与有限调用无需外部设施。",
+    "engagement": "学生可看到技能重叠为何留下无人负责的工作。"
+  },
+  "A-D02-10": {
+    "accessibility": "小依赖图提供有指导的排程入门。",
+    "learningLadder": "脚本排程可延伸到进度不确定性和完成证明。",
+    "verifiability": "相同信息的排程器避免不公平的理想参照。",
+    "publicationPotential": "完成证明可能支持范围明确的协作方法。",
+    "novelty": "关键路径排程成熟，进度可观察性差别尚未验证。",
+    "independence": "可执行完成检查提供明确缩小范围的依据。",
+    "resources": "小图和有限调用资源要求较低。",
+    "engagement": "分配稀缺时间带来具体的团队选择。"
+  },
+  "A-D03-01": {
+    "accessibility": "联合估计噪声比简单样本方差更难。",
+    "learningLadder": "响应图、策略比较和迁移可分步进阶。",
+    "verifiability": "隐藏模拟真值与固定配额支持受控比较。",
+    "publicationPotential": "稳健的重复测量触发器可能形成聚焦方法。",
+    "novelty": "自适应设计可能已解决该形式化分配问题。",
+    "independence": "概率更新计算和模型假设需定期专家核对。",
+    "resources": "先做小模拟，再进行可选且有限的智能体调用。",
+    "engagement": "重复测量还是探索新条件，选择容易理解。"
+  },
+  "A-D03-02": {
+    "accessibility": "有限假设仍需条件概率与信息概念。",
+    "learningLadder": "玩具传感器可延伸到效用和提示比较。",
+    "verifiability": "精确概率更新与相同似然支持受控比较。",
+    "publicationPotential": "智能体分心可能支持范围明确的测量结果。",
+    "novelty": "效用区别已知，智能体特有机制尚未证明。",
+    "independence": "只改说明就有效，是有用的主张边界。",
+    "resources": "少量假设与有限推理所需资源较少。",
+    "engagement": "无关信息构成易懂的科学决策难题。"
+  },
+  "A-D03-03": {
+    "accessibility": "曲线拟合和模型拒绝需指导学习统计基础。",
+    "learningLadder": "无噪声诊断及遗漏机制迁移可分步进行。",
+    "verifiability": "相同候选库与含真模型参照提供强对照。",
+    "publicationPotential": "可迁移诊断干预可能形成实质研究贡献。",
+    "novelty": "主动模型检查已有非常接近的决策研究。",
+    "independence": "拒绝统计量和因果解释需定期专家核对。",
+    "resources": "小型确定性曲线仅需本地CPU。",
+    "engagement": "学生可设计实验来暴露模型错误。"
+  },
+  "A-D03-04": {
+    "accessibility": "小状态表仍需概率和规划指导。",
+    "learningLadder": "电池复现可延伸到预算与规划规则。",
+    "verifiability": "精确动态规划可核对决策与资源成本。",
+    "publicationPotential": "考虑消耗的规则可能支持聚焦规划贡献。",
+    "novelty": "仅加库存约束不足以证明新的科学推理。",
+    "independence": "若贪心已最优，有明确转向寻找边界的路径。",
+    "resources": "小型参照求解器仅需本地CPU。",
+    "engagement": "破坏性测量带来直观且有后果的实验选择。"
+  },
+  "A-D03-05": {
+    "accessibility": "8种测试与小假设表需入门信息熵。",
+    "learningLadder": "穷举、冗余诊断和迁移形成连贯阶段。",
+    "verifiability": "穷举批次提供准确且信息匹配的参照。",
+    "publicationPotential": "可迁移的冗余修正可能形成实用方法。",
+    "novelty": "已有批量设计仍留有智能体持续犯错的具体区别。",
+    "independence": "准确对照和无收益转向支持独立迭代。",
+    "resources": "小型穷举与有限调用资源需求较低。",
+    "engagement": "学生可查看为何三次测试重复同一信息。"
+  },
+  "A-D03-06": {
+    "accessibility": "布尔规则表只需简单穷举比较。",
+    "learningLadder": "等价判断可延伸到停止和仪器选择。",
+    "verifiability": "经证明的等价组可独立核对哪些区别不可能判断。",
+    "publicationPotential": "验证过的停止干预可能改善科学决策可靠性。",
+    "novelty": "可辨识性已知，最接近的智能体先例尚不确定。",
+    "independence": "直接提供假设的条件给出明确解释检查点。",
+    "resources": "可选模型调用前，本地布尔表资源需求极小。",
+    "engagement": "无法解出的测试适合持续探索概念。"
+  },
+  "A-D03-07": {
+    "accessibility": "似然和截断概念比画被截信号更难。",
+    "learningLadder": "探测器复现与可迁移修正可依次产出结果。",
+    "verifiability": "准确模拟真值与不同曝光规则支持受控比较。",
+    "publicationPotential": "可迁移行动修正可能形成聚焦方法贡献。",
+    "novelty": "截断数据和曝光控制已有大量成熟先例。",
+    "independence": "似然归一化与解释需定期专家核对。",
+    "resources": "本地单变量模拟的计算成本极低。",
+    "engagement": "截断曲线呈现具体的测量失败。"
+  },
+  "A-D03-08": {
+    "accessibility": "4个假设仍需指导学习可辨识性与概率。",
+    "learningLadder": "成对测量可延伸到校准成本边界。",
+    "verifiability": "精确概率更新和探针对照支持有力验证。",
+    "publicationPotential": "最小校准流程可能形成聚焦方法贡献。",
+    "novelty": "测量反作用已知，尚缺最近协议的比较。",
+    "independence": "无法区分状态时，有明确重新设计的依据。",
+    "resources": "小型模拟表几乎不需支出和准备。",
+    "engagement": "测量改变对象本身，值得探索其概念。"
+  },
+  "A-D03-09": {
+    "accessibility": "卡尔曼滤波和隐藏漂移需指导学习线性代数。",
+    "learningLadder": "固定间隔与稳健自适应策略形成连贯进阶。",
+    "verifiability": "已知隐藏轨迹可分离测量偏差与科学信号误差。",
+    "publicationPotential": "稳健排程触发器可能成为实用方法。",
+    "novelty": "维护和滤波先例限制了可主张的决策收益。",
+    "independence": "模型失配与滤波解释需定期专家帮助。",
+    "resources": "小型合成线性系统无需外部设备。",
+    "engagement": "学生可决定虚拟实验室何时检查仪器。"
+  },
+  "A-D03-10": {
+    "accessibility": "小决策树提供明确的入门规划练习。",
+    "learningLadder": "手工核对谜题可延伸到辅助程序与失败边界。",
+    "verifiability": "有限步精确规划可独立验证最优行动。",
+    "publicationPotential": "可预测的前瞻收益可能支持聚焦设计方法。",
+    "novelty": "延迟收益已有研究，尚未证明科学任务特有性。",
+    "independence": "普通难度解释提供明确缩小范围的方向。",
+    "resources": "可选模型调用前即可做小型穷举。",
+    "engagement": "解锁有用测试构成具体的规划谜题。"
+  },
+  "A-D04-01": {
+    "accessibility": "小自旋系统穷举只需基础循环和运算。",
+    "learningLadder": "精确核对、精度扫描和保证条件可逐步展开。",
+    "verifiability": "原始与取整后的穷举最低值可独立核对答案变化。",
+    "publicationPotential": "经验证的精度规则可能解释重要实现限制。",
+    "novelty": "模拟误差研究仍留有具体实例的保证条件问题。",
+    "independence": "推导有效保证需专家检查不等式与简并情况。",
+    "resources": "小型穷举在本地运行，无需硬件或训练。",
+    "engagement": "取整改变答案，学生可穷举查看。"
+  },
+  "A-D04-02": {
+    "accessibility": "4自旋符号变换是紧凑且可核对的练习。",
+    "learningLadder": "不变性复现可扩展到误差诊断和变换选择。",
+    "verifiability": "精确能量与协变误差对照可独立检验主张。",
+    "publicationPotential": "误差结构表可能形成实用的小型诊断。",
+    "novelty": "按对称性预测误差，是对已有变换平均的聚焦扩展。",
+    "independence": "匹配重启次数给出明确否定机制的条件。",
+    "resources": "小型经典自旋无需硬件和训练资源。",
+    "engagement": "同样物理换个标签，能暴露有趣的实现错误。"
+  },
+  "A-D04-03": {
+    "accessibility": "二元优化映射需一个完整真值表示例。",
+    "learningLadder": "编码检查、取整和保证条件形成连贯进阶。",
+    "verifiability": "约束原问题和取整后精确最优可分验两类失败。",
+    "publicationPotential": "考虑精度的保证条件可能产生实用编码方法。",
+    "novelty": "所引映射与模拟误差工作仍留有具体交互问题。",
+    "independence": "惩罚界限及简并解释需定期专家检查。",
+    "resources": "6—12变量穷举的本地CPU成本极低。",
+    "engagement": "学生可看到更强约束意外损坏有效答案。"
+  },
+  "A-D04-04": {
+    "accessibility": "6自旋概率与直方图构成紧凑起步任务。",
+    "learningLadder": "精确例子可延伸到运行时间诊断和机制检查。",
+    "verifiability": "独立精确采样可直接量化有限样本偏差。",
+    "publicationPotential": "验证过的状态采样失败可能形成实用诊断。",
+    "novelty": "能量与具体状态的不同检查是已有采样问题。",
+    "independence": "若符合采样波动，便可明确否定偏差主张。",
+    "resources": "小型穷举与直方图仅需极少本地资源。",
+    "engagement": "能量分布相同却状态不对，带来概念上的意外。"
+  },
+  "A-D04-05": {
+    "accessibility": "小型似然拟合需入门概率示例。",
+    "learningLadder": "校准、跨图迁移和归一化可逐步产出结果。",
+    "verifiability": "精确分布与逐实例拟合支持有力诊断比较。",
+    "publicationPotential": "随图变化的剩余偏差可能解释有意义的校准限制。",
+    "novelty": "已有噪声温度关系仍留有跨拓扑迁移的具体区别。",
+    "independence": "区分混合不足与校准问题需定期专家解释。",
+    "resources": "4—12自旋模拟的本地CPU成本较低。",
+    "engagement": "学生可检验同一把温度尺是否适用于不同图。"
+  },
+  "A-D04-06": {
+    "accessibility": "多积分器与收敛检查需指导学习数值基础。",
+    "learningLadder": "轨迹复现可延伸到稳定性和性能边界。",
+    "verifiability": "步长减半、精确最低值和工作量匹配加强验证。",
+    "publicationPotential": "数值假象机制可能改进求解器可复现性。",
+    "novelty": "普通数值精度仍是很接近的另一种解释。",
+    "independence": "稳定后结果一致，可明确否定假象主张。",
+    "resources": "小自旋可用笔记本，但积分配置需一定准备。",
+    "engagement": "改变时间步长会产生具体且意外的求解行为。"
+  },
+  "A-D04-07": {
+    "accessibility": "小型穷举简单，吸引域动力学需指导入门。",
+    "learningLadder": "精确最低值、吸引域图和干预可逐步进行。",
+    "verifiability": "精确最低值与有条件重启支持受控偏差分析。",
+    "publicationPotential": "改变初始化的因果实验可能解释解多样性机制。",
+    "novelty": "已有简并采样仍留有吸引域干预的具体区别。",
+    "independence": "对称性和高维体积解释需导师定期核对。",
+    "resources": "小状态穷举与初态采样适合本地CPU。",
+    "engagement": "学生可画出竞争吸引域，并改变起点。"
+  },
+  "A-D04-08": {
+    "accessibility": "连续退火和噪声缩放需指导入门。",
+    "learningLadder": "噪声曲线可延伸到事件触发安排及迁移。",
+    "verifiability": "方差、重启数匹配及精确最低值提供强对照。",
+    "publicationPotential": "可迁移时机机制可能支持实用优化方法。",
+    "novelty": "已有噪声安排中，具体机制缺口尚未充分核查。",
+    "independence": "同预算下若无收益，有明确否定规则。",
+    "resources": "小型CPU动力学需适度模拟准备。",
+    "engagement": "噪声时机与逃逸事件提供多种干预选择。"
+  },
+  "A-D04-09": {
+    "accessibility": "特征值和连续自旋稳定性要求较多数学基础。",
+    "learningLadder": "线性复现与非线性迁移测试可产出有用结果。",
+    "verifiability": "线性稳定性可精确计算，优化迁移须另设对照。",
+    "publicationPotential": "归一化失效边界可能支持实质分析。",
+    "novelty": "谱归一化已知，具体图修正仍属待验证设想。",
+    "independence": "非线性解释需导师持续核对。",
+    "resources": "小矩阵与有限精确对照适合本地CPU。",
+    "engagement": "图形结构会明显改变机器失稳阈值。"
+  },
+  "A-D04-10": {
+    "accessibility": "6自旋穷举加一次翻转构成小练习。",
+    "learningLadder": "精确失真分析可延伸到实际流程和修正。",
+    "verifiability": "穷举变换后分布与保分布更新可明确核对失真。",
+    "publicationPotential": "量化任务权衡可能支持聚焦采样建议。",
+    "novelty": "多对一映射可能已解释全部表面新现象。",
+    "independence": "若简单映射已足够解释，有明确停止条件。",
+    "resources": "小概率矩阵无需特殊计算资源。",
+    "engagement": "能量更好却采样更差，带来概念上的意外。"
+  },
+  "A-D05-01": {
+    "accessibility": "可靠延迟积分器有帮助，但回归仍需准备。",
+    "learningLadder": "记忆复现和掩码迁移形成连贯阶段。",
+    "verifiability": "准确比特标签和调好掩码的对照支持比较。",
+    "publicationPotential": "可预测的切换权衡可能形成聚焦设计方法。",
+    "novelty": "掩码设计已有大量研究，尚缺最接近的构造比较。",
+    "independence": "相关性和动力学解释需定期专家支持。",
+    "resources": "少量虚拟节点数组只需普通CPU。",
+    "engagement": "学生可手画输入掩码，观察记忆差别。"
+  },
+  "A-D05-02": {
+    "accessibility": "延迟积分和分段回归需指导准备。",
+    "learningLadder": "残留影响复现可延伸到脉冲规则与可行边界。",
+    "verifiability": "等待消退和历史特征基线可核对实际重置收益。",
+    "publicationPotential": "有限控制的重置规则可能形成聚焦方法贡献。",
+    "novelty": "内部状态不可访问时的有限控制有别于已有直接重置。",
+    "independence": "脉冲成本和有用输入被抹除提供明确否定条件。",
+    "resources": "单变量CPU方程和合成输入成本较低。",
+    "engagement": "主动清除历史是可见且可控制的动力学实验。"
+  },
+  "A-D05-03": {
+    "accessibility": "延迟模板有帮助，但回归仍需讲解。",
+    "learningLadder": "采样时机复现和信号迁移可依次产出结果。",
+    "verifiability": "特征数和调参预算相同，支持受控采样比较。",
+    "publicationPotential": "可迁移的廉价选时规则可能形成聚焦方法。",
+    "novelty": "已有虚拟节点优化与拟议采样变化存在重叠。",
+    "independence": "带宽与迁移解释需定期专家核对。",
+    "resources": "小时间点矩阵和CPU动力学成本较低。",
+    "engagement": "学生可选择何时观察变化中的系统。"
+  },
+  "A-D05-04": {
+    "accessibility": "9个振子方程需指导学习数值准备。",
+    "learningLadder": "分类复现可延伸到稳健性适用范围分析。",
+    "verifiability": "特征匹配和间隔阈值对照可隔离收益来源。",
+    "publicationPotential": "解释不完全抵消可能支持实用方法。",
+    "novelty": "不完美参考是对基础相位不变性的狭窄扩展。",
+    "independence": "明确抵消失败可指导独立比较决策。",
+    "resources": "9个小微分方程只需普通CPU。",
+    "engagement": "噪声和同步扫描提供多种研究选择。"
+  },
+  "A-D05-05": {
+    "accessibility": "相位振子和事件检测需入门示例。",
+    "learningLadder": "同步图、检测测试和漂移比较可逐步展开。",
+    "verifiability": "生成漏拍真值和简单时序基线提供强检查。",
+    "publicationPotential": "可解释的检测延迟权衡可能支持聚焦应用。",
+    "novelty": "已有同步跟随研究仍留有漏拍与变速的具体区别。",
+    "independence": "同步解释需定期核对，参数扫描可由学生负责。",
+    "resources": "合成节奏和小方程无需特殊设备。",
+    "engagement": "学生可改变节奏并观察漏拍判断。"
+  },
+  "A-D05-06": {
+    "accessibility": "储备池积分与交叉验证需指导学习数值基础。",
+    "learningLadder": "传感器排名可延伸到失活与跨网络迁移。",
+    "verifiability": "共用缺失输入读出器可分离选择和训练影响。",
+    "publicationPotential": "可迁移冗余指标可能形成聚焦方法。",
+    "novelty": "稳健布局成熟，目前未明确新的机制。",
+    "independence": "若仅随机失活训练已解释收益，可明确收缩主张。",
+    "resources": "20个方程和线性求解需一定准备。",
+    "engagement": "传感器缺失提供具体稳健性选择与反馈。"
+  },
+  "A-D05-07": {
+    "accessibility": "有验证过的例子时，固定网络曲线可以上手。",
+    "learningLadder": "稳定过程复现、梯度和局部控制可分阶段推进。",
+    "verifiability": "基尔霍夫解与有限差分提供有力独立检查。",
+    "publicationPotential": "有界异步停止可能解释有用的物理学习行为。",
+    "novelty": "已有非准静态学习仍留有局部触发的具体区别。",
+    "independence": "慢模态和梯度作用需频繁专家解释。",
+    "resources": "承诺提供的可靠起步程序明确尚未就绪。",
+    "engagement": "学生可检查电路各部分何时看似稳定。"
+  },
+  "A-D05-08": {
+    "accessibility": "电路学习与导数需指导补充数学基础。",
+    "learningLadder": "饱和曲线可延伸到恢复与跨图比较。",
+    "verifiability": "可实现目标和精确梯度可隔离优化失败。",
+    "publicationPotential": "验证过的恢复提升可能支持聚焦电路方法。",
+    "novelty": "考虑边界的优化已知，尚缺具体恢复证据。",
+    "independence": "学习率调节后等效，便有具体收缩范围条件。",
+    "resources": "小型CPU电路求解仅需常规数值准备。",
+    "engagement": "部件饱和提供可见的失败与修复选择。"
+  },
+  "A-D05-09": {
+    "accessibility": "已有电路学习程序有帮助，但线性求解仍需讲解。",
+    "learningLadder": "损坏复现与受限重训可分步产出结果。",
+    "verifiability": "精确梯度和更新数匹配支持受控修复比较。",
+    "publicationPotential": "可预测的可修复性指标可能形成实用方法。",
+    "novelty": "已有敏感性和子集训练与方案成分重叠。",
+    "independence": "修复方向和电路解释需频繁专家指导。",
+    "resources": "小电阻网络只需本地数值计算。",
+    "engagement": "学生可损坏已学习电路并比较修复方案。"
+  },
+  "A-D05-10": {
+    "accessibility": "双输出电路与梯度检查需指导准备。",
+    "learningLadder": "更新可视化可延伸到冲突机制和教学安排。",
+    "verifiability": "精确梯度及相同稳定成本提供强对照。",
+    "publicationPotential": "可预测的冲突机制可能改善物理学习方法。",
+    "novelty": "有限轻推干扰有别于一般梯度更新安排。",
+    "independence": "轻推变小后差异消失，给出明确机制边界。",
+    "resources": "小型CPU电路需一定数值准备。",
+    "engagement": "相反教学信号形成可见且可控制的冲突。"
+  },
+  "A-D06-01": {
+    "accessibility": "已有生物示例有帮助，但卷积和守恒仍需讲解。",
+    "learningLadder": "运动复现、能量核算和对照可分阶段进行。",
+    "verifiability": "运动预算匹配与点粒子对照支持可复现测试。",
+    "publicationPotential": "生存与碎裂机制可能形成实质人工生命贡献。",
+    "novelty": "Flow-Lenia与趋化已有工作涵盖多数拟议成分。",
+    "independence": "局部感知和质量守恒需频繁专家解释。",
+    "resources": "小CPU网格无需机器人或付费模型训练。",
+    "engagement": "学生可操控可见生物穿过食物分布。"
+  },
+  "A-D06-02": {
+    "accessibility": "局部搬运和形状约束需指导实现。",
+    "learningLadder": "圆环修复可延伸到不同损伤与阈值。",
+    "verifiability": "严格材料核算和搬运对照可验证机制。",
+    "publicationPotential": "可复用修复规则可能形成聚焦人工生命贡献。",
+    "novelty": "结合守恒与修复的最接近先例仍不确定。",
+    "independence": "若依赖隐藏目标，有明确缩小范围的依据。",
+    "resources": "小网格模拟只需普通CPU。",
+    "engagement": "损伤和可见再生便于学生持续自主设计。"
+  },
+  "A-D06-03": {
+    "accessibility": "扩散和小型搜索需指导入门模拟。",
+    "learningLadder": "生长复现、切割与计时器对照可逐步进行。",
+    "verifiability": "移除组件和未切割对照支持可复现停止比较。",
+    "publicationPotential": "可检验的传输边界可能形成机制贡献。",
+    "novelty": "抑制是经典概念，最小规则的区别尚未充分核查。",
+    "independence": "空间机制解释需频繁专家指导。",
+    "resources": "小网格与有限运行仅需本地CPU。",
+    "engagement": "学生可让可见图案生长、受损并修复。"
+  },
+  "A-D06-04": {
+    "accessibility": "规则表与演化搜索需指导编程。",
+    "learningLadder": "复现可延伸到记忆机制和更大圆环。",
+    "verifiability": "容量匹配的规则与时序提供强受控比较。",
+    "publicationPotential": "可辨认的记忆传播可能解释有用的集体计算。",
+    "novelty": "相关异步时序有别于经典密度分类器。",
+    "independence": "容量混杂因素提供具体否定依据。",
+    "resources": "小二进制数组和群体几乎不需支出。",
+    "engagement": "规则演化与不同步时钟提供多种干预。"
+  },
+  "A-D06-05": {
+    "accessibility": "稳定粒子力和空间分区需指导编程。",
+    "learningLadder": "过窄门、匹配感知及新布局可分步研究。",
+    "verifiability": "匹配观测安排可直接检验感知预算优势。",
+    "publicationPotential": "可迁移通行收益可能支持聚焦控制方法。",
+    "novelty": "事件触发控制与拟议机制有较大重叠。",
+    "independence": "积分器需先获帮助，之后扫描与布局测试可较独立。",
+    "resources": "CPU粒子无需机器人或强化学习设施。",
+    "engagement": "学生可控制障碍并观察群体通行形态。"
+  },
+  "A-D06-06": {
+    "accessibility": "粒子分离与类型切换需指导搭建动力学。",
+    "learningLadder": "分离复现可延伸到滞回和重复修复。",
+    "verifiability": "切换频率匹配、目标仅评分提供有用对照。",
+    "publicationPotential": "依赖历史的维持机制可能形成聚焦贡献。",
+    "novelty": "群体化学已有异质结构生成。",
+    "independence": "类型归一和依赖全局位置提供明确转向。",
+    "resources": "小粒子模拟仅需普通笔记本配置。",
+    "engagement": "可修复边界便于自主设计多种扰动。"
+  },
+  "A-D06-07": {
+    "accessibility": "扩散和稳定有限差分需指导补充数学准备。",
+    "learningLadder": "斑点复现、脉冲和局部控制形成连贯阶段。",
+    "verifiability": "匹配脉冲控制和收敛检查支持可复现比较。",
+    "publicationPotential": "稳健的局部分裂控制可能形成聚焦机制。",
+    "novelty": "反应扩散控制成熟，尚缺近邻局部控制比较。",
+    "independence": "图案稳定与局部传感解释需频繁专家参与。",
+    "resources": "小CPU网格无需化学设备或实验室。",
+    "engagement": "学生可控制可见化学图案何时分裂。"
+  },
+  "A-D06-08": {
+    "accessibility": "Avida配置与获奖功能需指导准备。",
+    "learningLadder": "功能复现可延伸到撤奖和持续性实验。",
+    "verifiability": "奖励匹配与随机撤奖可隔离时机影响。",
+    "publicationPotential": "自适应撤奖可能形成实用演化方法。",
+    "novelty": "匹配奖励暴露有别于经典奖励阶梯。",
+    "independence": "额外奖励与代数提供明确因果否定条件。",
+    "resources": "安装和有限群体只需普通笔记本准备。",
+    "engagement": "撤掉辅助奖励提供可见的演化选择。"
+  },
+  "A-D06-09": {
+    "accessibility": "基础讲解后，小比特串生物可把演化具体化。",
+    "learningLadder": "玩具恢复、匹配对照和Avida形成进阶。",
+    "verifiability": "评估次数与存储量匹配，可隔离档案效果。",
+    "publicationPotential": "超越活跃多样性的恢复可能形成机制贡献。",
+    "novelty": "已有档案仍留有资源匹配下的具体区别。",
+    "independence": "除常规扫描外，任务景观和解释需定期核对。",
+    "resources": "小CPU群体无需硬件或付费推理。",
+    "engagement": "学生可演化生物并选择环境扰动。"
+  },
+  "A-D06-10": {
+    "accessibility": "提供的确定性谱系构成紧凑重放练习。",
+    "learningLadder": "重放可扩展到预设依赖和可复用来源记录。",
+    "verifiability": "植入原因与小基因组穷举支持验证。",
+    "publicationPotential": "验证过的可复用重放可能形成聚焦工具。",
+    "novelty": "突变敲除已有研究，尚缺最近工具比较。",
+    "independence": "随机分歧过大时有明确确定性退路。",
+    "resources": "必需的可运行谱系起步程序明确尚未提供。",
+    "engagement": "追查关键突变便于学生自主探索概念。"
+  },
+  "A-D07-01": {
+    "accessibility": "阈值模拟与图列表适合有指导的基础编程。",
+    "learningLadder": "反转曲线和留出图形成连贯进阶。",
+    "verifiability": "种子匹配与强贪心对照支持可复现比较。",
+    "publicationPotential": "可预测的强化指标可能解释聚焦机制。",
+    "novelty": "所引传播研究仍留有未知阈值下种子布局的区别。",
+    "independence": "阈值与泛化解释需定期专家核对。",
+    "resources": "小CPU图无需参与者或模型API。",
+    "engagement": "学生可选择最初加入者并观察传播。"
+  },
+  "A-D07-02": {
+    "accessibility": "两个队列与守恒检查只需入门数组。",
+    "learningLadder": "延迟导航复现可延伸到冲击和时间尺度边界。",
+    "verifiability": "采纳率匹配及所引平滑基线提供强对照。",
+    "publicationPotential": "恢复与等待的权衡可能支持聚焦交通方法。",
+    "novelty": "相同采纳率下的非平稳时机是对所引延迟研究的具体扩展。",
+    "independence": "调好的低采纳率方法提供明确否定条件。",
+    "resources": "小合成队列计算极少，也无需外部许可。",
+    "engagement": "交通恢复带来直观可见的干预选择。"
+  },
+  "A-D07-03": {
+    "accessibility": "事件列表与两次确认规则只需基础编程。",
+    "learningLadder": "窗口扫描和匹配来源测试形成连贯进阶。",
+    "verifiability": "固定接触次数和打乱时间戳可隔离时间影响。",
+    "publicationPotential": "延迟与误采纳的规则可能解释聚焦机制。",
+    "novelty": "所引时序和传播工作仍留有结合来源的具体区别。",
+    "independence": "常规模拟之外，时间戳和标签含义需核对。",
+    "resources": "几百模拟节点适合本地CPU。",
+    "engagement": "学生可改变传闻时机并观察采纳传播。"
+  },
+  "A-D07-04": {
+    "accessibility": "隐藏数值与求平均是基础模拟概念。",
+    "learningLadder": "初步比较可延伸到有偏来源和网络位置。",
+    "verifiability": "已知真值与稳健汇总方法支持受控验证。",
+    "publicationPotential": "保留少数意见的阈值可能支持聚焦机制。",
+    "novelty": "已有固执个体研究，具体新区别仍未厘清。",
+    "independence": "中位数若占优，有明确负面结果转向。",
+    "resources": "少量数值投票者仅需极少本地资源。",
+    "engagement": "独立意见和集体犯错带来贴近生活的选择。"
+  },
+  "A-D07-05": {
+    "accessibility": "两两平均和邻接表适合有指导的新手练习。",
+    "learningLadder": "静态比较与变化图可产出连贯结果。",
+    "verifiability": "准确均值守恒可检查平均实现和准确性。",
+    "publicationPotential": "稳健在线切换规则可能支持狭窄方法贡献。",
+    "novelty": "已有优化交流中，在线适应差别仍待确认。",
+    "independence": "除直接扫描外，安排策略的解释需定期核对。",
+    "resources": "500节点图的本地CPU成本较低。",
+    "engagement": "学生可观察信息穿过可见的网络瓶颈。"
+  },
+  "A-D07-06": {
+    "accessibility": "委托环与图遍历需指导编程。",
+    "learningLadder": "小选举可延伸到集中度权衡与保证。",
+    "verifiability": "小型分配穷举提供强受控比较。",
+    "publicationPotential": "参与率与集中度保证可能支持聚焦制度设计。",
+    "novelty": "仅设上限与已有排名委托目标重叠。",
+    "independence": "若规则被全面超越，可明确退回教学用途。",
+    "resources": "合成图遍历几乎不需本地资源。",
+    "engagement": "公平代表性带来贴近生活的规则设计。"
+  },
+  "A-D07-07": {
+    "accessibility": "平均和余量数组只需基础数值编程。",
+    "learningLadder": "取整复现和断连测试形成连贯阶段。",
+    "verifiability": "准确均值和补偿基线支持强守恒检查。",
+    "publicationPotential": "有限内存的失效规则可能形成实质方法。",
+    "novelty": "直接基线使断连下的余量截断成为具体待解问题。",
+    "independence": "稳定性和断连含义需导师定期检查。",
+    "resources": "小本地数组无需网络硬件或特殊算力。",
+    "engagement": "学生可看到省下位数后精度如何损失或恢复。"
+  },
+  "A-D07-08": {
+    "accessibility": "二元矩阵和先导划分构成紧凑笔记练习。",
+    "learningLadder": "选择器可延伸到分布变化和样本量阈值。",
+    "verifiability": "已知答案与小委员会穷举支持精确检查。",
+    "publicationPotential": "经验证的选择阈值可能改善实用集成方法。",
+    "novelty": "多样性选择成熟，尚缺最接近的短先导比较。",
+    "independence": "留出划分和随机基线提供明确否定条件。",
+    "resources": "40名投票者与小数组几乎无需支出。",
+    "engagement": "选择可靠团队提供具体的学生决策。"
+  },
+  "A-D07-09": {
+    "accessibility": "补图和区间覆盖需指导学习概率。",
+    "learningLadder": "缺边诊断与保留判断测试形成连贯结果。",
+    "verifiability": "已知结构图与设错缺失机制提供强对照。",
+    "publicationPotential": "有信息量的不确定报告可能成为实用工具。",
+    "novelty": "网络不确定性已有研究，尚缺最近拒判比较。",
+    "independence": "结构化缺失下的覆盖解释需频繁专家帮助。",
+    "resources": "小合成图无需抓取数据或特殊硬件。",
+    "engagement": "学生可看到缺边如何改变传播预测。"
+  },
+  "A-D07-10": {
+    "accessibility": "双社群交流失败是小型且可检查的模拟。",
+    "learningLadder": "失败复现可延伸到检查规则和充分条件。",
+    "verifiability": "准确初始均值可独立核对停止误差。",
+    "publicationPotential": "稀疏可靠检查的条件可能解释有用行为。",
+    "novelty": "终止检测已有研究，最近的有限观测先例尚不清楚。",
+    "independence": "成本比较提供明确转做下界的路径。",
+    "resources": "小数组和图模拟只需普通CPU。",
+    "engagement": "过早达成共识带来易懂失败与通信选择。"
+  },
+  "A-D08-01": {
+    "accessibility": "单变量动力学与滚动统计需基础建模指导。",
+    "learningLadder": "匹配预警与波形迁移可依次产出结果。",
+    "verifiability": "稳定轨迹和状态空间基线支持受控误报测试。",
+    "publicationPotential": "验证过的校正范围可能支持实用方法。",
+    "novelty": "已有预处理工作限制了季节性变化以外的新意。",
+    "independence": "事先校准与预警解释需定期专家核对。",
+    "resources": "合成单变量动力学本地CPU成本较低。",
+    "engagement": "学生可观察模拟生态崩溃前的预警。"
+  },
+  "A-D08-02": {
+    "accessibility": "时序预警与校准需指导学习统计基础。",
+    "learningLadder": "简单安排可扩展到多模型和观测偏差解释。",
+    "verifiability": "稳定对照与相同误报率加强验证。",
+    "publicationPotential": "经验证的采样策略可能支持实用生态方法。",
+    "novelty": "观测引起的预警偏差是对自适应监测的聚焦切入点。",
+    "independence": "自相关虚高提供明确否定机制的检查。",
+    "resources": "小型本地模拟避免硬件和使用条件要求。",
+    "engagement": "崩溃前预警带来有意义的时机决策。"
+  },
+  "A-D08-03": {
+    "accessibility": "景观矩阵与特征值需指导学习数学。",
+    "learningLadder": "小型排序和稳健规划形成连贯结果。",
+    "verifiability": "小选择穷举与名义方案支持可复现比较。",
+    "publicationPotential": "透明稳健规则可能支持聚焦保护方法。",
+    "novelty": "栖息地排序已知，不确定性下的稳健区别仍待确认。",
+    "independence": "生态解释及合理不确定范围需定期专家指导。",
+    "resources": "小矩阵无需GIS或实地数据。",
+    "engagement": "学生可在不确定未来中选择新增栖息地。"
+  },
+  "A-D08-04": {
+    "accessibility": "10斑块概率模拟只需循环与基础概率。",
+    "learningLadder": "时序扫描可延伸到双斑块解释和排名。",
+    "verifiability": "迁移量匹配与繁殖对照可隔离时机影响。",
+    "publicationPotential": "排名反转可能解释重要修复决策的不确定性。",
+    "novelty": "等迁移量机制尚缺最接近的季节研究比较。",
+    "independence": "成功迁移数和积分检查帮助决定是否否定机制。",
+    "resources": "小型本地占据模拟资源负担极低。",
+    "engagement": "季节窗口和存活图提供直观选择。"
+  },
+  "A-D08-05": {
+    "accessibility": "占据似然比简单探测计数需更多准备。",
+    "learningLadder": "等次访问、自适应重访和模型失配可分步研究。",
+    "verifiability": "模拟占据真值与理想分配提供强受控参照。",
+    "publicationPotential": "考虑偏差的分配可能形成实用调查方法。",
+    "novelty": "占据和调查分配已有成熟研究。",
+    "independence": "自适应选择偏差需频繁统计解释支持。",
+    "resources": "合成探测历史仅需少量本地计算。",
+    "engagement": "学生可决定有限调查访问花在哪里。"
+  },
+  "A-D08-06": {
+    "accessibility": "隐藏状态占据推断需较多统计准备。",
+    "learningLadder": "探测历史可延伸到诊断频率规划与边界。",
+    "verifiability": "已知停机和理想状态掩码提供强模拟对照。",
+    "publicationPotential": "稀疏诊断可能解决重要的生态可辨识性疑问。",
+    "novelty": "未观测设备故障的区别尚缺最近占据模型比较。",
+    "independence": "区间覆盖和可辨识性需频繁统计指导。",
+    "resources": "小型似然网格几乎不需本地算力。",
+    "engagement": "区分物种不在与设备损坏，反馈有实际意义。"
+  },
+  "A-D08-07": {
+    "accessibility": "回归、传感器模拟和拒判需指导学习机器学习基础。",
+    "learningLadder": "合成诊断和后续档案验证可产出有用结果。",
+    "verifiability": "已知浓度和保留率匹配支持可复现比较。",
+    "publicationPotential": "校准过的有效性报告可能成为实用工具。",
+    "novelty": "已有校准迁移与拒判方法限制了新切入点。",
+    "independence": "物理合理性与漂移解释需定期专家核对。",
+    "resources": "小合成表适合普通本地CPU。",
+    "engagement": "学生可看到污染估计何时不再可靠。"
+  },
+  "A-D08-08": {
+    "accessibility": "回归和分位数需基础入门指导。",
+    "learningLadder": "合成校准可扩展到响应模型与真实档案。",
+    "verifiability": "已知模拟峰值和预算匹配支持核对。",
+    "publicationPotential": "覆盖规则可能形成实用且聚焦的方法。",
+    "novelty": "与主动设计重叠，尚缺准确的最近方法区别。",
+    "independence": "假象和平均误差权衡提供明确失败转向。",
+    "resources": "合成曲线与CPU回归所需资源极少。",
+    "engagement": "罕见污染峰值提供具体且易懂的社会意义反馈。"
+  },
+  "A-D08-09": {
+    "accessibility": "若有可靠起步程序，3物种动力学可以上手。",
+    "learningLadder": "过冲复现和目标比较可分步产出结果。",
+    "verifiability": "穷举目标与非线性结果支持受控干预检查。",
+    "publicationPotential": "验证过的敏感性规则可能形成实质方法。",
+    "novelty": "与已有生态控制的比较尚不够明确。",
+    "independence": "局部稳定与灭绝的区别需频繁专家解释。",
+    "resources": "必需且检查过的起步程序明确尚未提供。",
+    "engagement": "学生可选择干预并观察生态恢复。"
+  },
+  "A-D08-10": {
+    "accessibility": "延迟方程与收敛检查需数值准备。",
+    "learningLadder": "小模型可延伸到位置预测及解释。",
+    "verifiability": "延迟匹配与步长减半可揭示数值假象。",
+    "publicationPotential": "验证过的反馈环预测可能解释生态失稳。",
+    "novelty": "具体位置作用尚缺最近异质延迟研究比较。",
+    "independence": "平均延迟与积分无效结果可组织常规否定决策。",
+    "resources": "6物种本地模拟只需普通CPU。",
+    "engagement": "移动延迟会改变可见的恢复和振荡。"
+  },
+  "A-D09-01": {
+    "accessibility": "小二维数据与基础分类器适合有指导的入门。",
+    "learningLadder": "清洗曲线和留出几何结构可依次产出结果。",
+    "verifiability": "已知错标和折外概率支持强受控检查。",
+    "publicationPotential": "保护罕见模式可能形成聚焦清洗方法。",
+    "novelty": "分类别清洗已知，尚缺最接近的方法比较。",
+    "independence": "几何与概率解释需定期专家核对。",
+    "resources": "小合成数组与CPU分类器几乎无需支出。",
+    "engagement": "学生可看到罕见小岛被保留或消失。"
+  },
+  "A-D09-02": {
+    "accessibility": "合成副本与距离构成小型笔记练习。",
+    "learningLadder": "检查可延伸到分组比较和数据集验证。",
+    "verifiability": "已知来源可独立核对污染与错误合并。",
+    "publicationPotential": "验证过的分组权衡可能支持实用方法。",
+    "novelty": "去重领域成熟，尚缺最近方法比较。",
+    "independence": "明确阈值对照给出停止方法主张的规则。",
+    "resources": "2000条本地合成记录资源需求极低。",
+    "engagement": "抄作业比喻与可视化分组方便学生自主探索。"
+  },
+  "A-D09-03": {
+    "accessibility": "组合评分需贡献分配的具体讲解示例。",
+    "learningLadder": "精确小组计算与采集测试可分阶段进行。",
+    "verifiability": "穷举所有来源组合可独立核对组贡献。",
+    "publicationPotential": "验证过的采集区别可能支持聚焦应用。",
+    "novelty": "分组Shapley已知，有用重复测量的处理仍待验证。",
+    "independence": "博弈价值和重复证据解释需定期导师指导。",
+    "resources": "最多64次小CPU拟合，成本极低。",
+    "engagement": "学生可看到复制测量如何改变贡献分。"
+  },
+  "A-D09-04": {
+    "accessibility": "Lasso、自助抽样与隐藏组需统计准备指导。",
+    "learningLadder": "选择图可延伸到变化边界与部署。",
+    "verifiability": "理想真分组和已发表方法提供强比较。",
+    "publicationPotential": "稳健固定分组规则可能形成聚焦方法。",
+    "novelty": "分布变化中的分组变化是对聚类稳定选择的具体扩展。",
+    "independence": "若与已有选择器等效，有明确停止方法主张的规则。",
+    "resources": "30特征小CPU表只需适度准备。",
+    "engagement": "更换传感器带来易懂的模型稳定性反馈。"
+  },
+  "A-D09-05": {
+    "accessibility": "小表格与植入乘积适合有指导的回归基础练习。",
+    "learningLadder": "交互找回和独立确认可分步产出结果。",
+    "verifiability": "已知交互与留出误差支持强受控检查。",
+    "publicationPotential": "校准阈值可能支持实用的小范围流程。",
+    "novelty": "样本分割和稳定性选择已确立独立确认原则。",
+    "independence": "检出能力与错误发现解释需定期统计指导。",
+    "resources": "10特征CPU回归计算成本极低。",
+    "engagement": "学生可从可见响应面揭示隐藏关系。"
+  },
+  "A-D09-06": {
+    "accessibility": "16条回归路径构成紧凑的有指导练习。",
+    "learningLadder": "4因素复现可延伸到筛查和交互失败。",
+    "verifiability": "完整枚举可独立核对漏掉的结论反转。",
+    "publicationPotential": "高效筛查可能支持实用聚焦方法。",
+    "novelty": "因子筛查已有研究，具体新意仍不确定。",
+    "independence": "高阶失败为独立迭代提供明确界限。",
+    "resources": "小型最小二乘拟合仅需极少本地资源。",
+    "engagement": "结论翻转提供易懂的方法反馈。"
+  },
+  "A-D09-07": {
+    "accessibility": "方差分解需概率指导，不只是运行小分类器。",
+    "learningLadder": "配对重复和计入先导成本的分配可分阶段进行。",
+    "verifiability": "理想分配与直接先例比较支持受控检查。",
+    "publicationPotential": "校准过的小预算规则可能形成有意义的方法。",
+    "novelty": "所引先例仍留有极小先导开销的具体区别。",
+    "independence": "独立性和估计目标解释需定期专家核对。",
+    "resources": "小CPU拟合使重复实验成本较低。",
+    "engagement": "学生可判断学习策略本身是否太昂贵。"
+  },
+  "A-D09-08": {
+    "accessibility": "5条小流水线可逐步学习封装和来源追踪。",
+    "learningLadder": "记录练习可延伸到不同流水线的故障定位。",
+    "verifiability": "植入违规和无害变换提供独立检查。",
+    "publicationPotential": "低成本定位可能形成有用的研究工具。",
+    "novelty": "尚未直接比较最接近的来源追踪方法。",
+    "independence": "现有流水线若已预防，可明确缩小范围。",
+    "resources": "小合成表和本地变换所需支出较少。",
+    "engagement": "隐藏数据泄露便于学生自主诊断。"
+  },
+  "A-D09-09": {
+    "accessibility": "熵和折外预测需概率基础指导。",
+    "learningLadder": "合成地图与可辨识性测试形成连贯结果。",
+    "verifiability": "已知隐藏概率支持在所设生成器内做对照。",
+    "publicationPotential": "有明确限制的审核规则可能成为实用工具。",
+    "novelty": "已有分歧研究中，拟议分离的区别仍待验证。",
+    "independence": "可辨识性与标注者假设需定期专家解释。",
+    "resources": "模拟标注者无需招募参与者，可用CPU运行。",
+    "engagement": "学生可视化判断不确定样本该走哪种审核路径。"
+  },
+  "A-D09-10": {
+    "accessibility": "小标注簇与贪心选择适合有指导练习。",
+    "learningLadder": "小型最优解可扩展到不平衡与几何迁移。",
+    "verifiability": "小批次穷举可独立核对采集质量。",
+    "publicationPotential": "可迁移惩罚规则可能形成聚焦方法。",
+    "novelty": "多样性采集竞争充分，尚未明确新机制。",
+    "independence": "若最远点等效，有明确停止价值估计的规则。",
+    "resources": "小CPU候选池无需真实标注费用。",
+    "engagement": "选择有用例子方便学生自主实验。"
+  },
+  "A-D10-01": {
+    "accessibility": "合成音符和现成音高调用便于起步。",
+    "learningLadder": "错误复现和留出音色测试可分步推进。",
+    "verifiability": "已知基频与真实跳跃支持受控精度延迟检查。",
+    "publicationPotential": "验证过的歧义规则可能形成聚焦音频方法。",
+    "novelty": "八度修正成熟，尚缺最近检测器比较。",
+    "independence": "学生可负责测试，定期核对信号解释。",
+    "resources": "短合成音频与CPU处理成本极低。",
+    "engagement": "学生能听见八度错误，并设计新音色。"
+  },
+  "A-D10-02": {
+    "accessibility": "合成音符与窗口比较构成小型练习。",
+    "learningLadder": "错误图可延伸到音色与覆盖率延迟权衡。",
+    "verifiability": "已知轨迹和匹配覆盖的拒判提供强检查。",
+    "publicationPotential": "验证过的权衡改善可能形成实用界面方法。",
+    "novelty": "置信筛选已有研究，尚缺最近双窗口比较。",
+    "independence": "若单阈值等效，有明确放弃规则。",
+    "resources": "合成音频与简单本地分析资源需求极低。",
+    "engagement": "可听音符与信心决策便于学生自主研究。"
+  },
+  "A-D10-03": {
+    "accessibility": "动态规划与起音包络需讲解示例。",
+    "learningLadder": "合成复现与复杂度比较构成研究阶段。",
+    "verifiability": "准确拍点和已有自适应基线支持受控测试。",
+    "publicationPotential": "经验证的简单漂移权衡可能形成方法。",
+    "novelty": "明确的自适应跟拍器使复杂度区别具体化。",
+    "independence": "算法和递推核对后，学生可负责扫描。",
+    "resources": "必需基线能否获取仍需限定预算核查。",
+    "engagement": "学生可听速度变化并查看跟踪拍点。"
+  },
+  "A-D10-04": {
+    "accessibility": "合成起音列表与简单拟合适合小型起步。",
+    "learningLadder": "时间显示可延伸到留出节奏动机评估。",
+    "verifiability": "注入的摇摆与抖动提供独立已知标签。",
+    "publicationPotential": "校准后的表现与错误分离支持聚焦应用。",
+    "novelty": "摇摆估计已有先例，尚缺最近不确定性方法比较。",
+    "independence": "留出失败和过拟合规则指导自主迭代。",
+    "resources": "本地事件列表算力与准备需求极低。",
+    "engagement": "可听节奏和不同显示方式支持有意义探索。"
+  },
+  "A-D10-05": {
+    "accessibility": "已有频谱滤波使合成分轨练习较易上手。",
+    "learningLadder": "串轨复现和留出滑音测试可分步进行。",
+    "verifiability": "已知独立声轨和理想斜率支持受控检查。",
+    "publicationPotential": "廉价斜率选择可能形成实质的小范围方法。",
+    "novelty": "方向滤波已知，更新的基线尚未核查。",
+    "independence": "瞬态解释需核对，扫描可由学生负责。",
+    "resources": "短合成音频与CPU滤波成本极低。",
+    "engagement": "学生能同时听见和看见分离错误。"
+  },
+  "A-D10-06": {
+    "accessibility": "6个音调与小规模安排搜索可以上手。",
+    "learningLadder": "简单排程可延伸到稳健声学操作规则。",
+    "verifiability": "穷举安排和替代检测器支持受控检查。",
+    "publicationPotential": "受延迟约束的声学规则可能支持聚焦设计。",
+    "novelty": "最接近的声学排程先例尚未检查。",
+    "independence": "检测器敏感性和延迟限制提供明确否定条件。",
+    "resources": "生成音调与本地频谱资源需求极低。",
+    "engagement": "可听冲突与播放安排提供直接反馈。"
+  },
+  "A-D10-07": {
+    "accessibility": "图示卷积与合成脉冲便于入门信号处理。",
+    "learningLadder": "检测器复现与留出房间可依次产出结果。",
+    "verifiability": "真实时刻和匹配防重复基线支持受控检查。",
+    "publicationPotential": "校准延迟权衡可能形成聚焦应用。",
+    "novelty": "回声消除和防重复已有成熟近邻方案。",
+    "independence": "学生可负责合成测试，定期核对歧义解释。",
+    "resources": "CPU卷积与生成回声资源需求极低。",
+    "engagement": "学生能听到多余指令，并设计有意双拍。"
+  },
+  "A-D10-08": {
+    "accessibility": "小音调库和滤波适合有指导的信号入门。",
+    "learningLadder": "提示音构造可延伸到稳健码本和跨通道迁移。",
+    "verifiability": "小音库穷举和多个检测器提供强对照。",
+    "publicationPotential": "可迁移声学设计规则可能形成聚焦方法。",
+    "novelty": "稳健码本经典，尚缺最近声学应用比较。",
+    "independence": "独立检测器提供明确否定指标过拟合的依据。",
+    "resources": "起步使用生成声音，避免硬件和参与者成本。",
+    "engagement": "可听失真与码本选择方便学生自主研究。"
+  },
+  "A-D10-09": {
+    "accessibility": "简单曲线与正弦映射构成易上手练习。",
+    "learningLadder": "编码、导出压力测试和约定可分步进行。",
+    "verifiability": "已知缺口只验证机器找回，不证明真人无障碍收益。",
+    "publicationPotential": "可移植编码约定可能成为实用工具。",
+    "novelty": "最近的缺失数据声音化先例仍需查明。",
+    "independence": "学生可负责导出测试，定期核对解码解释。",
+    "resources": "生成曲线与普通音频导出成本极低。",
+    "engagement": "学生能听见并检查自己编码的信息。"
+  },
+  "A-D10-10": {
+    "accessibility": "合成曲线与插值适合有指导的编程入门。",
+    "learningLadder": "声音化可延伸到信息时长权衡和替代方案比较。",
+    "verifiability": "多个解码器与时间失真检查加强验证。",
+    "publicationPotential": "可复现压缩权衡可能支持实用设计。",
+    "novelty": "压缩区别尚缺最近安排策略的先例比较。",
+    "independence": "标准降采样提供明确放弃方法的条件。",
+    "resources": "合成音调和曲线只需本地CPU。",
+    "engagement": "可听输出和关键点选择支持持续探索。"
+  }
+}

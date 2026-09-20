@@ -1,0 +1,681 @@
+{
+  "scope": {
+    "records": 200,
+    "sources": {
+      "astra": 100,
+      "fable": 100
+    },
+    "fields": [
+      "title",
+      "question",
+      "hook",
+      "firstMonth",
+      "experiment",
+      "baseline",
+      "publicationPath",
+      "risk",
+      "pivot",
+      "resources",
+      "readinessReason"
+    ],
+    "fieldCount": 2200,
+    "effectiveDisplay": "catalog.json with provenance/english-alignment-v2.json applied first",
+    "basis": "Compared Astra display fields with the complete source ideas.json, inspected inherited originalAssessment values and the catalog builder, and scanned both sources for ellipses, incomplete endings, and possible first-sentence splitter artifacts. No new scientific caveats or source facts added.",
+    "sourceSnapshots": [
+      {
+        "sha256": "b6a60403516b6e8f7feccbc04847c878fc65cc3887dcb9901cdf21c0501ba117",
+        "source": "preview source: catalog.json"
+      },
+      {
+        "sha256": "8c0b0f2aac2d77d4dd640612cff57e05c594302916965e723d49ff55c2e71f61",
+        "source": "preview source: provenance/english-alignment-v2.json"
+      },
+      {
+        "sha256": "bfd1b576761e6d3f8d821cde358c2273a4f2dda8f4e440c1dd5ea70e0a01785f",
+        "source": "preview source: scripts/build_catalog.py"
+      },
+      {
+        "sha256": "a09e74ac882d6348eda4b75d6158b3d126ca548d8dc11c1f4fe9df72a26ece84",
+        "source": "Astra campaign source: ideas.json"
+      }
+    ]
+  },
+  "scanSummary": {
+    "recordsScanned": 200,
+    "fieldsScanned": 2200,
+    "recordsChanged": 37,
+    "fieldsChanged": 37,
+    "inheritedReadinessFragmentsRewritten": 37,
+    "fixedLengthReadinessTruncationFound": false,
+    "actualCause": "The builder appends source assessment.concern verbatim. Thirty-seven concerns are terse fragments without terminal punctuation; A-D09-07 ends with the incomplete shorthand “covered by prior”. These are inherited shorthand, not a fixed-length readiness cut.",
+    "intentionalPreviewEllipsesRetained": [
+      {
+        "id": "F-D01-04",
+        "field": "hook"
+      },
+      {
+        "id": "F-D01-10",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-01",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-02",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-03",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-04",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-05",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-06",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-07",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-08",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-09",
+        "field": "hook"
+      },
+      {
+        "id": "F-D02-10",
+        "field": "hook"
+      },
+      {
+        "id": "F-D03-02",
+        "field": "hook"
+      },
+      {
+        "id": "F-D03-03",
+        "field": "hook"
+      },
+      {
+        "id": "F-D03-04",
+        "field": "hook"
+      },
+      {
+        "id": "F-D03-05",
+        "field": "hook"
+      },
+      {
+        "id": "F-D03-06",
+        "field": "hook"
+      },
+      {
+        "id": "F-D03-07",
+        "field": "hook"
+      },
+      {
+        "id": "F-D03-08",
+        "field": "hook"
+      },
+      {
+        "id": "F-D03-09",
+        "field": "hook"
+      },
+      {
+        "id": "F-D03-10",
+        "field": "hook"
+      },
+      {
+        "id": "F-D04-03",
+        "field": "hook"
+      },
+      {
+        "id": "F-D04-09",
+        "field": "hook"
+      },
+      {
+        "id": "F-D04-10",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-01",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-02",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-03",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-04",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-05",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-06",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-07",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-08",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-09",
+        "field": "hook"
+      },
+      {
+        "id": "F-D05-10",
+        "field": "hook"
+      },
+      {
+        "id": "F-D06-01",
+        "field": "hook"
+      },
+      {
+        "id": "F-D06-04",
+        "field": "hook"
+      },
+      {
+        "id": "F-D06-06",
+        "field": "hook"
+      },
+      {
+        "id": "F-D06-07",
+        "field": "hook"
+      },
+      {
+        "id": "F-D06-10",
+        "field": "hook"
+      },
+      {
+        "id": "F-D07-01",
+        "field": "hook"
+      },
+      {
+        "id": "F-D07-02",
+        "field": "hook"
+      },
+      {
+        "id": "F-D07-03",
+        "field": "hook"
+      },
+      {
+        "id": "F-D07-04",
+        "field": "hook"
+      },
+      {
+        "id": "F-D07-05",
+        "field": "hook"
+      },
+      {
+        "id": "F-D07-06",
+        "field": "hook"
+      },
+      {
+        "id": "F-D07-07",
+        "field": "hook"
+      },
+      {
+        "id": "F-D07-09",
+        "field": "hook"
+      },
+      {
+        "id": "F-D07-10",
+        "field": "hook"
+      },
+      {
+        "id": "F-D08-03",
+        "field": "hook"
+      },
+      {
+        "id": "F-D08-04",
+        "field": "hook"
+      },
+      {
+        "id": "F-D08-05",
+        "field": "hook"
+      },
+      {
+        "id": "F-D08-06",
+        "field": "hook"
+      },
+      {
+        "id": "F-D08-07",
+        "field": "hook"
+      },
+      {
+        "id": "F-D08-08",
+        "field": "hook"
+      },
+      {
+        "id": "F-D08-10",
+        "field": "hook"
+      },
+      {
+        "id": "F-D09-02",
+        "field": "hook"
+      },
+      {
+        "id": "F-D09-04",
+        "field": "hook"
+      },
+      {
+        "id": "F-D09-06",
+        "field": "hook"
+      },
+      {
+        "id": "F-D09-07",
+        "field": "hook"
+      },
+      {
+        "id": "F-D09-08",
+        "field": "hook"
+      },
+      {
+        "id": "F-D10-05",
+        "field": "hook"
+      },
+      {
+        "id": "F-D10-07",
+        "field": "hook"
+      },
+      {
+        "id": "F-D10-10",
+        "field": "hook"
+      }
+    ],
+    "intentionalPreviewExplanation": "The Fable hook helper deliberately shortens first-sentence previews to 240 characters with a visible ellipsis; complete proposal content remains in experiment/originalAssessment. These were not treated as lost substantive source text.",
+    "completeResourceOrRiskListsRetained": [
+      {
+        "id": "F-D03-01",
+        "field": "resources"
+      },
+      {
+        "id": "F-D03-02",
+        "field": "resources"
+      },
+      {
+        "id": "F-D03-08",
+        "field": "resources"
+      },
+      {
+        "id": "F-D07-01",
+        "field": "resources"
+      },
+      {
+        "id": "F-D07-03",
+        "field": "resources"
+      },
+      {
+        "id": "F-D07-04",
+        "field": "resources"
+      },
+      {
+        "id": "F-D07-05",
+        "field": "resources"
+      },
+      {
+        "id": "F-D07-06",
+        "field": "resources"
+      },
+      {
+        "id": "F-D07-08",
+        "field": "resources"
+      },
+      {
+        "id": "F-D07-09",
+        "field": "resources"
+      },
+      {
+        "id": "F-D09-02",
+        "field": "resources"
+      },
+      {
+        "id": "F-D09-03",
+        "field": "resources"
+      },
+      {
+        "id": "F-D09-04",
+        "field": "resources"
+      },
+      {
+        "id": "F-D09-05",
+        "field": "resources"
+      },
+      {
+        "id": "F-D09-06",
+        "field": "resources"
+      },
+      {
+        "id": "F-D09-07",
+        "field": "resources"
+      },
+      {
+        "id": "F-D09-08",
+        "field": "resources"
+      },
+      {
+        "id": "F-D10-01",
+        "field": "resources"
+      },
+      {
+        "id": "F-D10-03",
+        "field": "risk"
+      },
+      {
+        "id": "F-D10-04",
+        "field": "resources"
+      },
+      {
+        "id": "F-D10-07",
+        "field": "resources"
+      },
+      {
+        "id": "F-D10-08",
+        "field": "resources"
+      },
+      {
+        "id": "F-D10-08",
+        "field": "risk"
+      },
+      {
+        "id": "F-D10-09",
+        "field": "resources"
+      },
+      {
+        "id": "F-D10-09",
+        "field": "risk"
+      },
+      {
+        "id": "F-D10-10",
+        "field": "resources"
+      },
+      {
+        "id": "F-D10-10",
+        "field": "risk"
+      }
+    ],
+    "listExplanation": "Short resource lists and complete risk notes without terminal punctuation are intact source entries, not artificial cutoffs. No punctuation-only edits were made to those lists.",
+    "otherInvalidCutoffsFound": 0,
+    "postRepair": "All 200 readiness reasons end with complete sentences; no non-hook field ends with an artificial ellipsis. Scores, readiness classifications, citations, and factual project scope are unchanged."
+  },
+  "changes": [
+    {
+      "id": "A-D02-08",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Established source accounting leaves narrow LLM-processing novelty",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because source accounting is already established. Any new contribution must concern how the language-model coordinator processes that information."
+      }
+    },
+    {
+      "id": "A-D02-10",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: First scripted comparison alone repeats scheduling theory",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because the first scripted comparison only reproduces established scheduling theory."
+      }
+    },
+    {
+      "id": "A-D03-01",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Beginner plots omit hardest mandatory baseline",
+      "fields": {
+        "readinessReason": "A mentor should help narrow the first experiment. The beginner plots do not yet include the most demanding required baseline."
+      }
+    },
+    {
+      "id": "A-D03-02",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Known utility mismatch may exhaust publication claim",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because the established distinction between information value and decision value may already explain the proposed result."
+      }
+    },
+    {
+      "id": "A-D03-03",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Hypothesis rejection calibration exceeds stated novice preparation",
+      "fields": {
+        "readinessReason": "A mentor should help with the statistical preparation needed to calibrate hypothesis rejection before the main comparison."
+      }
+    },
+    {
+      "id": "A-D03-07",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Exposure-halving baseline may dominate sophisticated inference",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because the simple exposure-halving baseline may perform as well as, or better than, the more sophisticated inference method."
+      }
+    },
+    {
+      "id": "A-D03-08",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Simple offset toy may not establish transferable mechanism",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because a simple offset example may not establish a mechanism that transfers to other settings."
+      }
+    },
+    {
+      "id": "A-D03-09",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Competent mandatory filtering baseline is advanced",
+      "fields": {
+        "readinessReason": "A mentor should help establish the required filtering baseline, which needs more advanced preparation than the introductory plots."
+      }
+    },
+    {
+      "id": "A-D04-04",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Stationary-bias claim requires substantially stronger diagnostics than histograms",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because a stationary-bias claim requires stronger diagnostics than energy histograms alone."
+      }
+    },
+    {
+      "id": "A-D04-05",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Temperature fits may hide nonthermal distributions",
+      "fields": {
+        "readinessReason": "A mentor should help check the full distribution: a fitted temperature can hide departures from the intended thermal distribution."
+      }
+    },
+    {
+      "id": "A-D04-06",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Integrator comparison requires understood stability and convergence",
+      "fields": {
+        "readinessReason": "A mentor should help establish numerical stability and convergence before comparing integrators."
+      }
+    },
+    {
+      "id": "A-D04-09",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Leading-eigenvalue normalization alone is established",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because normalization by the leading eigenvalue is already established."
+      }
+    },
+    {
+      "id": "A-D05-01",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: First experiment bundles too many unfamiliar numerical layers",
+      "fields": {
+        "readinessReason": "A mentor should narrow the first experiment because it combines several unfamiliar numerical methods."
+      }
+    },
+    {
+      "id": "A-D05-02",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Apparent reset may exploit overwritten or accessible hidden state",
+      "fields": {
+        "readinessReason": "A mentor should check that the apparent reset does not rely on directly overwriting or accessing hidden state."
+      }
+    },
+    {
+      "id": "A-D05-03",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Selection and ridge tuning can leak held-out labels",
+      "fields": {
+        "readinessReason": "A mentor should help separate training, selection, and testing so that sensor selection and ridge tuning do not leak held-out labels."
+      }
+    },
+    {
+      "id": "A-D05-04",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Reference may cancel task signal or lose to interval threshold",
+      "fields": {
+        "readinessReason": "A mentor should check whether the reference cancels the useful task signal or performs worse than a simple pulse-interval threshold."
+      }
+    },
+    {
+      "id": "A-D05-06",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Standard robust selection may already provide identical mechanism",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because existing robust-selection methods may already provide the same mechanism."
+      }
+    },
+    {
+      "id": "A-D05-08",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Bound-aware step rule may be standard optimization transfer",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because scaling steps by distance to a bound may simply transfer an established optimization method."
+      }
+    },
+    {
+      "id": "A-D05-09",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Susceptibility importance need not predict useful repair direction",
+      "fields": {
+        "readinessReason": "A mentor should help test whether an edge's susceptibility predicts a useful repair direction; it may identify importance without identifying a helpful update."
+      }
+    },
+    {
+      "id": "A-D05-10",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Scheduling gain may be ordinary stochastic optimization",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because the scheduling gain may follow from ordinary stochastic optimization."
+      }
+    },
+    {
+      "id": "A-D06-01",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: A,T,I fail: stable Flow-Lenia baseline is not established",
+      "fields": {
+        "readinessReason": "A mentor should help establish a stable Flow-Lenia baseline before the proposed extension."
+      }
+    },
+    {
+      "id": "A-D06-02",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: T,I fail: local repair mechanism is underspecified",
+      "fields": {
+        "readinessReason": "A mentor should help specify the local repair mechanism before the main experiment."
+      }
+    },
+    {
+      "id": "A-D06-03",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: A,T,I fail: multiple interacting dynamical components",
+      "fields": {
+        "readinessReason": "A mentor should narrow the first experiment because it combines several interacting dynamical components."
+      }
+    },
+    {
+      "id": "A-D06-05",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: T fails: stable simulator precedes scheduling result",
+      "fields": {
+        "readinessReason": "A mentor should help establish a stable simulator before evaluating the scheduling rule."
+      }
+    },
+    {
+      "id": "A-D06-06",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: T,I fail: baseline morphology and local constraints unresolved",
+      "fields": {
+        "readinessReason": "A mentor should help establish the baseline morphology and local constraints before testing the repair mechanism."
+      }
+    },
+    {
+      "id": "A-D06-07",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: A,T,I fail: numerical stability and local sensing are demanding",
+      "fields": {
+        "readinessReason": "A mentor should help with numerical stability and local sensing before the proposed division experiment."
+      }
+    },
+    {
+      "id": "A-D06-08",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: T,I fail: working installation and repeatable innovation missing",
+      "fields": {
+        "readinessReason": "A mentor should help establish a working installation and a repeatable example of evolutionary innovation before testing reward withdrawal."
+      }
+    },
+    {
+      "id": "A-D07-01",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: T fails: meaningful plot explicitly extends to week four",
+      "fields": {
+        "readinessReason": "The first meaningful plot is planned for week four. A mentor should help keep the initial simulation and analysis manageable."
+      }
+    },
+    {
+      "id": "A-D07-05",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: T fails; greedy-gossip overlap is close",
+      "fields": {
+        "readinessReason": "A mentor should narrow the first experiment and compare the proposed rule closely with established greedy-gossip methods."
+      }
+    },
+    {
+      "id": "A-D07-09",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: A,T,I fail: uncertainty calibration exceeds entry preparation",
+      "fields": {
+        "readinessReason": "A mentor should provide additional preparation in uncertainty calibration before the proposed network-risk analysis."
+      }
+    },
+    {
+      "id": "A-D08-01",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: T fails: model and calibration extend to week four",
+      "fields": {
+        "readinessReason": "The model and calibration work extend to week four. A mentor should help keep the first experiment manageable."
+      }
+    },
+    {
+      "id": "A-D08-03",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: A,T,I fail: spectral and ecological interpretation need preparation",
+      "fields": {
+        "readinessReason": "A mentor should provide preparation in spectral methods and ecological interpretation before the main comparison."
+      }
+    },
+    {
+      "id": "A-D08-05",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: A,T,I fail: likelihood and coverage demand substantial instruction",
+      "fields": {
+        "readinessReason": "A mentor should provide substantial guidance on likelihoods and interval coverage before the main comparison."
+      }
+    },
+    {
+      "id": "A-D08-06",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: A,T,I fail: hidden-state inference is not beginner-ready",
+      "fields": {
+        "readinessReason": "A mentor should introduce hidden-state inference and narrow the first experiment to match the student's preparation."
+      }
+    },
+    {
+      "id": "A-D08-10",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: A,T,I fail: delay numerics and stability need preparation",
+      "fields": {
+        "readinessReason": "A mentor should provide preparation in delayed numerical models and stability checks before the main comparison."
+      }
+    },
+    {
+      "id": "A-D09-04",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: A,T,I fail: baseline concepts and cluster interpretation too advanced",
+      "fields": {
+        "readinessReason": "A mentor should introduce the baseline methods and help interpret feature clusters before the main comparison."
+      }
+    },
+    {
+      "id": "A-D09-07",
+      "reason": "Replace an inherited telegraphic assessment concern with complete student-facing sentences; the underlying limitation is unchanged. Source concern: Tiny-pilot overhead distinction may already be covered by prior",
+      "fields": {
+        "readinessReason": "The research question needs sharpening because prior work may already cover the proposed distinction involving the overhead of a small pilot study."
+      }
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+id,title,total,accessibility,learningLadder,verifiability,publicationPotential,novelty,independence,resources,engagement,readiness,assessor
+A-D01-10,A correct final answer can hide collateral edits,82,5,4,5,4,2,4,5,4,start,second
+A-D04-01,How many coupling bits preserve the answer?,79,4,4,5,4,3,3,5,4,start,first
+A-D02-02,Do namespace boundaries survive familiar names?,78,5,4,5,3,3,4,4,3,start,second
+A-D03-06,Recognizing that available tests cannot decide,78,4,4,5,4,2,4,5,4,start,second
+A-D07-10,When does local agreement justify stopping a discussion?,78,4,4,5,4,2,4,5,4,start,second
+A-D01-02,An empty search is not a proof of absence,77,5,4,5,3,2,4,4,4,start,second
+A-D02-04,Can memory admit that it never stored the answer?,77,4,4,5,4,3,4,4,3,start,second
+A-D09-02,A split builder that keeps noisy copies together,76,4,4,5,4,2,3,5,4,start,second
+A-D04-02,Use spin relabeling to diagnose implementation errors,76,4,4,5,3,3,3,5,4,start,second
+A-D07-02,Can staggered route advice recover quickly after a demand shock?,76,4,4,5,3,3,3,5,4,mentor,second
+A-D07-08,Choosing a committee when competence estimates are noisy,76,4,4,5,4,2,3,5,4,start,second
+A-D02-01,Which logical words survive memory compression?,74,4,4,5,3,3,4,4,3,start,first
+A-D07-03,A useful lifetime for social confirmation,74,4,4,4,3,3,3,5,4,start,first
+A-D08-04,Can migration windows rescue a fragmented population?,74,4,4,4,4,2,3,5,4,start,second
+A-D02-06,Remembering a deadline when two things are due,74,4,4,5,3,3,3,4,4,start,second
+A-D03-05,Choose a batch before any results return,74,4,4,5,3,3,4,4,3,start,first
+A-D02-07,When is a handoff actually finished?,74,4,4,5,3,3,4,4,3,start,first
+A-D01-07,Which read-back is worth paying for?,74,4,4,5,3,3,4,4,3,start,first
+A-D02-09,Overlapping expertise can leave a task unowned,74,4,4,5,3,3,4,4,3,start,first
+A-D01-09,"The right name, the wrong record",74,4,4,5,3,3,4,4,3,start,first
+A-D06-09,Does a seed bank protect evolutionary possibilities?,74,4,4,4,3,3,3,5,4,start,first
+A-D10-02,A tuner that knows when to stay quiet,73,4,4,5,3,2,3,5,4,start,second
+A-D04-03,A penalty can be too strong after rounding,73,3,4,5,4,3,3,5,3,start,first
+A-D04-04,The right energy histogram can hide the wrong samples,73,4,4,5,3,2,3,5,4,rework,second
+A-D10-04,A rhythm meter that preserves deliberate swing,73,4,4,5,3,2,3,5,4,start,second
+A-D01-04,Units that fail only at the boundary,73,4,4,5,3,2,4,4,4,start,second
+A-D06-04,Evolve a majority rule that tolerates a broken clock,73,3,4,4,4,3,3,5,4,start,second
+A-D09-08,A fitted-transform provenance checker,73,4,4,5,3,2,4,5,3,start,second
+A-D01-08,Cancel requested versus cancel confirmed,73,4,4,5,3,2,4,4,4,start,second
+A-D04-10,Polishing a solution can spoil a sampler,73,4,4,5,3,2,3,5,4,start,second
+A-D03-10,An uninformative first step that enables a decisive test,73,4,4,5,3,2,3,5,4,start,second
+A-D07-01,When should a small campaign seed one cluster or several?,72,4,4,4,3,3,3,5,3,mentor,first
+A-D02-03,The telephone game inside a memory summary,72,4,4,4,3,3,4,4,3,start,first
+A-D01-03,How much error feedback actually teaches repair?,72,4,4,4,3,3,4,4,3,start,first
+A-D07-07,Recovering accuracy when gossip messages contain only a few bits,72,4,4,4,3,3,3,5,3,start,first
+F-D04-06,Sumplete: solving the ChatGPT-invented NP-complete grid puzzle,71,4,4,5,3,2,3,4,4,start,second
+A-D09-01,Cleaning labels without erasing rare examples,71,4,4,4,3,2,3,5,4,start,first
+A-D10-01,Stopping a tuner from jumping an octave,71,4,4,4,3,2,3,5,4,start,first
+A-D07-04,Preserving an independent minority during group estimation,71,4,4,4,3,2,3,5,4,start,second
+A-D02-05,A memory that recalls facts but miscounts events,71,4,4,5,2,3,4,4,3,start,first
+F-D07-04,Building and extending logic gates from Life gliders,71,4,4,5,3,2,2,5,4,mentor,second
+A-D10-05,Keeping gliding notes out of the drum track,71,4,4,4,3,2,3,5,4,start,first
+A-D01-05,Can an agent explain a partly successful bulk action?,71,4,4,5,2,3,4,4,3,start,first
+A-D09-06,Finding the preprocessing choice that flips a conclusion,71,4,4,5,3,2,3,5,3,start,second
+A-D10-06,Scheduling notification sounds so they do not collide,71,4,4,4,3,2,3,5,4,start,second
+A-D01-06,The cost of a guard that says no too often,71,4,4,5,3,2,3,4,4,start,second
+A-D10-07,A clap command that does not fire twice in an echo,71,4,4,4,3,2,3,5,4,start,first
+A-D10-08,A tone vocabulary robust to cheap speakers,71,4,4,4,3,2,3,5,4,start,second
+A-D10-09,Hearing that a chart has missing data,71,4,4,4,3,2,3,5,4,start,first
+A-D10-10,Short sonifications that keep the important turning points,71,4,4,4,3,2,3,5,4,start,second
+A-D05-10,Separate conflicting teaching signals in a physical learner,71,3,4,4,4,3,3,4,4,rework,second
+A-D05-02,Erase yesterday’s signal with one finite pulse,70,3,4,4,3,3,3,5,4,mentor,second
+A-D08-02,Spend a fixed observation budget before ecological collapse,70,3,4,4,3,3,3,5,4,start,second
+A-D05-04,Use a reference oscillator to cancel shared clock noise,70,3,4,4,4,2,3,5,4,mentor,second
+A-D05-05,A tiny oscillator recognizes missing beats,70,3,4,4,3,3,3,5,4,start,first
+A-D04-07,Which ground states have the largest capture basins?,70,3,4,4,3,3,3,5,4,start,first
+A-D09-10,Buying variety rather than more of the same data,70,4,4,5,3,1,3,5,4,start,second
+A-D03-04,Learning when experiments consume the specimen,69,3,4,5,3,2,3,5,4,start,second
+A-D07-05,Spend communication on bottleneck edges only when needed,69,4,4,4,3,2,3,5,3,mentor,first
+A-D09-05,An interaction detector that must replicate,69,4,4,4,3,2,3,5,3,start,first
+A-D02-10,Should the slow teammate get the remaining budget?,69,4,4,4,3,2,3,4,4,rework,second
+F-D02-04,Memory poisoning: how long does one false fact survive?,69,4,4,4,3,2,3,4,4,mentor,second
+F-D02-07,Error amplification vs. tool-chain depth,69,4,4,5,3,2,3,4,3,mentor,first
+A-D09-04,Feature groups that survive a changing sensor mix,68,3,4,4,3,3,3,5,3,mentor,second
+F-D09-05,Agent rediscovers the pendulum's anharmonic correction,68,3,4,4,3,3,3,4,4,start,first
+A-D04-05,Does one noise-to-temperature calibration travel?,68,3,4,4,3,3,3,5,3,mentor,first
+A-D04-06,"Is the optimizer good, or is the time step doing the work?",68,3,4,4,4,2,3,4,4,mentor,second
+A-D09-07,Does learning where to spend repeats cost more than it saves?,68,3,4,4,3,3,3,5,3,rework,first
+A-D04-08,Spend the same noise budget at different times,68,3,4,4,4,2,3,4,4,start,second
+F-D05-09,"One knob, two goals: SA schedules for sampling vs optimizing",68,4,4,5,2,2,3,5,3,start,first
+A-D06-08,Withdraw evolutionary training wheels at the right moment,68,3,4,4,3,3,3,4,4,mentor,second
+A-D08-10,Do a few slow interactions set an ecosystem’s recovery time?,68,3,4,4,4,2,3,5,3,mentor,second
+F-D07-01,Computational-capability map of Life-like CA rules,67,4,3,3,3,2,3,5,4,start,first
+A-D06-02,Repair a pattern without creating material from nothing,67,3,4,4,3,2,3,5,4,mentor,second
+A-D09-03,When duplicate rows earn too much data credit,67,3,4,5,3,2,3,5,3,start,first
+A-D06-05,A swarm that asks for help only near a bottleneck,67,3,4,4,3,2,3,5,4,mentor,first
+A-D07-06,Fallback delegates with a limit on concentrated voting power,67,3,4,4,3,2,3,5,4,start,second
+F-D05-08,Digital memcomputing solves 3-SAT: chaos and speed,67,3,4,4,4,3,2,4,3,mentor,second
+A-D03-08,When the measuring tool nudges the system,67,3,4,4,3,2,3,5,4,rework,second
+A-D08-08,Choose calibration hours that include rare pollution conditions,67,3,4,4,3,2,3,5,4,start,second
+F-D03-10,First-price vs second-price: do LLM bidders shade like Bayes-Nash?,67,4,3,4,3,2,3,4,4,start,second
+A-D01-01,When does one page become the whole database?,66,4,4,5,2,2,3,4,3,start,first
+A-D10-03,Following a drummer who speeds up,66,3,4,4,3,3,3,3,4,mentor,first
+F-D04-07,Nim and Sprague-Grundy: does the LLM find the XOR rule,66,4,3,5,2,2,3,4,4,start,first
+F-D04-08,Wordle: how many bits does the LLM leave on the table,66,4,4,4,2,2,3,4,4,start,second
+F-D03-08,LLM Minority Game: does the volatility phase transition survive?,66,3,4,4,4,2,3,3,4,mentor,second
+F-D07-10,LLM-proposed rules for the CA density-classification task,66,4,4,4,3,1,3,4,4,start,second
+F-D09-01,Agent locates the 2D Ising model's critical temperature,65,3,4,4,3,2,3,4,4,start,first
+F-D02-08,The boiling frog: detection threshold for gradual tool-output drift,65,4,3,3,3,2,3,4,4,start,second
+A-D03-01,Measure again or try somewhere new?,65,3,4,4,3,2,3,5,3,mentor,first
+A-D05-01,A delay reservoir with a mask you can draw by hand,65,3,4,4,3,2,3,5,3,mentor,first
+A-D06-01,A virtual creature with an energy budget for turning,65,3,4,4,3,2,2,5,4,mentor,first
+A-D08-01,Separate seasonal change from an ecological warning,65,3,4,4,3,2,3,5,3,mentor,first
+F-D09-03,Agent finds the exact p_c=1/2 in 2D bond percolation,65,3,4,4,3,2,3,4,4,start,first
+F-D04-02,k-coloring phase transition probed by LLM colorability calls,65,3,4,4,3,2,3,4,4,mentor,second
+A-D03-03,Reserve one experiment to challenge the model,65,3,4,4,3,2,3,5,3,mentor,first
+A-D05-03,Spend reservoir samples where the dynamics change,65,3,4,4,3,2,3,5,3,mentor,first
+A-D06-03,A local stop signal that prevents endless regrowth,65,3,4,4,3,2,2,5,4,mentor,first
+A-D08-03,Restore habitat for the climate you do not know,65,3,4,4,3,2,3,5,3,mentor,first
+F-D04-03,Calibrating when an LLM agent should call a solver,65,4,3,4,3,2,3,4,3,mentor,first
+A-D06-06,Two particle types that build a boundary and repair it,65,3,4,4,3,2,3,4,4,mentor,second
+A-D02-08,Five agents citing one observation are still one observation,65,3,4,5,3,2,3,4,3,rework,second
+A-D03-07,Designing around a sensor ceiling,65,3,4,4,3,2,3,5,3,rework,first
+A-D06-07,Feed a chemical spot just enough to divide once,65,3,4,4,3,2,2,5,4,mentor,first
+A-D08-07,An air-quality calibration that knows when to abstain,65,3,4,4,3,2,3,5,3,start,first
+A-D09-09,Distinguishing disputed labels from mistaken labels,65,3,4,4,3,2,3,5,3,start,first
+A-D03-09,How often should an autonomous lab recalibrate?,65,3,4,4,3,2,3,5,3,mentor,first
+F-D05-04,p-bit network as a physical Gibbs sampler: exact test,64,4,4,5,1,1,3,5,4,start,second
+F-D07-05,Phase diagram of particle-life clustering,63,3,3,3,3,2,3,5,4,start,first
+F-D05-01,"Fair SA-vs-SB time-to-solution race, agent-tuned",63,3,4,4,3,2,3,4,3,mentor,first
+F-D09-04,Agent rediscovers Kepler's third law under a sim budget,63,3,3,4,3,2,3,4,4,start,second
+F-D04-04,Sudoku difficulty ladder versus LLM chain-of-thought cost,63,4,4,4,2,1,3,4,4,start,second
+A-D08-05,When should a biodiversity survey revisit the same site?,63,3,4,4,3,2,2,5,3,mentor,first
+F-D09-10,Agent reconstructs a hidden oscillator network by probing,63,3,3,4,3,2,3,4,4,mentor,second
+A-D07-09,A cascade-risk report that admits missing network edges,63,3,4,4,3,2,2,5,3,mentor,first
+A-D05-09,Repair a damaged learned circuit using only nearby updates,63,3,4,4,3,2,2,5,3,mentor,first
+A-D06-10,An evolutionary replay tool that tests which mutation mattered,63,4,4,4,3,2,3,2,3,mentor,second
+F-D07-06,Edge-of-chaos criticality in random Boolean networks,62,3,3,4,3,1,3,5,4,mentor,second
+F-D04-05,Sokoban push-count optimality gap for LLM planners,62,3,3,5,2,2,3,4,4,start,first
+A-D05-06,Choose reservoir sensors that can lose a neighbor,62,3,4,4,3,1,3,4,4,rework,second
+A-D08-06,Detect a broken sensor before declaring a species absent,62,2,4,4,4,2,2,5,3,mentor,second
+A-D05-08,Stop a learning resistor from becoming permanently saturated,62,3,4,4,3,1,3,4,4,rework,second
+F-D10-04,TESS flare-energy power laws vs. stellar rotation,61,3,3,3,3,2,3,4,4,start,second
+F-D01-02,"Same Brain, Different Body: Harness Effects on Agent Accuracy",61,4,3,4,2,1,3,4,4,start,second
+F-D01-03,Shuffle Test: Row/Header Invariance for Data-Analysis Agents,61,4,4,4,2,1,3,4,3,start,first
+F-D05-03,Avalanche size distribution in simulated annealing quenches,61,3,3,3,3,2,3,5,3,start,first
+F-D09-08,Calibrated LLM forecasting of a chaotic Lorenz trajectory,61,3,3,4,3,2,3,4,3,start,second
+F-D05-10,How hard is a planted spin glass? A scaling law,61,3,4,4,2,1,3,5,4,start,second
+F-D02-02,Defensive red-team suite for a homemade research agent,61,4,3,4,2,1,3,4,4,start,second
+F-D02-05,Sycophancy flip-rate under false pushback,61,4,3,5,2,1,3,4,3,start,first
+F-D05-06,Do noisy coupled oscillators sample a Boltzmann distribution?,60,2,3,4,4,2,2,4,4,mentor,second
+A-D03-02,Useful information versus distracting information,60,3,4,4,3,1,3,4,3,rework,second
+F-D10-01,Fresh-exam LLM benchmark with a hand-built misconception taxonomy,60,4,3,4,2,2,3,3,3,start,first
+A-D05-07,Let each resistor decide when its learning signal has settled,60,3,4,4,3,3,2,2,3,mentor,first
+F-D01-09,Wrong Answer or Wrong Grader? Auditing Exact-Match Brittleness,60,4,3,3,2,2,3,4,3,mentor,first
+F-D02-09,Cost-of-resilience: a fault-recovery vs. API-price Pareto frontier,60,4,3,4,2,2,3,3,3,mentor,first
+F-D03-04,Does an LLM jury follow the Condorcet jury theorem?,59,4,3,4,2,1,3,4,3,rework,second
+F-D05-07,Auto-tuning the parallel-tempering ladder for fastest round-trips,59,2,4,4,3,2,3,4,3,mentor,first
+F-D03-09,Does LLM debate raise judge accuracy on ground-truth puzzles?,59,4,3,4,2,1,3,4,3,rework,first
+A-D04-09,"Normalize a machine by its graph, not its largest edge",59,2,3,4,3,2,3,5,3,rework,first
+F-D02-03,Indirect prompt injection: a susceptibility-vs-subtlety curve,59,4,3,4,2,1,3,4,3,rework,first
+F-D02-06,Long-horizon drift: is there a turn-count collapse threshold?,59,3,3,4,3,2,3,3,3,mentor,second
+F-D02-10,In-context vaccination: does a few-shot injection warning help?,59,4,3,4,2,1,3,4,3,start,second
+F-D09-02,Agent detects a fake critical point in the XY model,58,2,3,4,4,2,2,4,3,mentor,second
+F-D09-07,Numeric self-consistency auditor for physics-ML papers,58,3,3,4,2,2,3,4,3,start,first
+F-D06-09,LED-Lattice Hardware Realization of Rule 110 Under Noise,58,3,3,5,2,2,2,3,4,mentor,first
+F-D03-01,How many rounds does an AI team need to follow a pointer chain?,57,3,3,3,3,2,2,4,3,mentor,first
+F-D03-02,Two-agent equality game: LLM message bits vs the Shannon minimum,57,3,3,3,3,2,2,4,3,start,second
+F-D03-03,LLM public-goods game: contributions vs Nash zero and social optimum,57,4,3,4,2,1,2,4,3,start,first
+F-D01-04,Do Judges Grade Their Own Kind Better? A Self-Preference Probe,57,4,3,3,2,1,3,4,3,start,second
+F-D05-05,Duffing amplitude equalizer for a simulated-bifurcation machine,57,2,3,4,3,2,2,4,4,mentor,first
+F-D01-06,Does Rewording the Question Change the Answer? A Paraphrase Audit,57,4,3,3,2,1,3,4,3,start,second
+F-D07-07,Elementary-CA reservoir-computing benchmark sweep,57,3,3,4,2,1,3,5,3,mentor,first
+F-D01-07,Fantastically Ordered Tool Calls: Does Exemplar Order Still Matter?,57,4,3,4,2,1,3,3,3,mentor,first
+F-D07-09,Does open-ended complexity growth occur in evolving Lenia?,57,3,3,2,3,2,2,4,4,mentor,first
+F-D04-09,Exploitability of an LLM poker player against a CFR solver,57,2,3,4,3,2,2,4,4,mentor,first
+F-D01-10,Matched-Compute Replication Audit of a Published Agent Benchmark Claim,57,3,3,4,3,2,2,3,3,mentor,second
+F-D02-01,Fault-injection Lyapunov exponent for tool-using agents,57,3,4,2,3,2,2,4,3,start,first
+A-D08-09,Which species should receive a small stabilizing intervention?,57,3,4,4,3,2,2,2,3,mentor,first
+F-D03-07,LLM bargaining: does the split match the alternating-offers equilibrium?,56,3,3,4,2,2,2,4,3,mentor,first
+F-D01-01,How Many Runs Before You Trust a Benchmark Score?,55,4,3,4,2,1,2,3,3,start,first
+F-D07-03,Regeneration scaling law for growing neural CA,55,3,3,4,2,1,3,3,4,start,first
+F-D08-04,Double descent in tiny nets fitting a physics regression law,55,3,3,4,2,1,3,4,3,start,second
+F-D08-06,What a small predictor network encodes about chaotic orbits,55,2,3,3,3,2,3,4,3,start,second
+F-D06-10,Noisy-Comparator p-Bit Array for Boltzmann Sampling,55,2,3,4,3,2,2,3,4,mentor,second
+F-D10-08,Surface-code decoder difficulty map: MWPM vs. union-find,55,2,3,4,3,2,2,4,3,start,second
+F-D10-09,Free-tier cloud QEC: repetition-code scaling vs. Stim baseline,55,2,4,4,3,2,2,2,4,mentor,first
+F-D01-05,The Cost-Accuracy Frontier of Cheap LLM APIs on One Fixed Task,54,4,3,4,1,1,3,3,3,rework,first
+F-D01-08,How Many Votes Is Enough? The Self-Consistency Cost Curve,54,4,3,4,1,1,3,3,3,rework,second
+F-D06-01,8-Node Coupled-Oscillator Ising Machine on a Breadboard,53,2,3,4,3,2,2,2,4,mentor,first
+F-D07-02,VLM-guided glider hunting in Lenia,53,3,3,4,2,1,2,3,4,rework,second
+F-D08-02,What a tiny transformer linearly encodes from Ising spin configurations,53,2,3,3,3,2,3,3,3,mentor,second
+F-D08-05,Sparse-autoencoder order parameters for an Ising phase classifier,53,2,3,4,3,2,2,3,3,mentor,first
+F-D03-06,LLM opinion dynamics: does bounded confidence predict cluster count?,53,3,3,3,2,1,3,4,3,start,second
+F-D06-08,"Marble-run mechanical logic: speed, energy use and errors",53,3,4,3,2,1,2,3,4,mentor,second
+F-D05-02,Critical slowing down sets Ising annealing schedule limits,52,2,3,4,3,1,2,4,3,start,second
+F-D06-05,Bristlebot Swarm as a Collision-Based Random-Walk Computer,52,3,3,3,2,2,2,2,4,mentor,first
+F-D10-03,Auto-mining misconception taxonomies from wrong-answer data,52,3,3,3,2,2,2,3,3,start,first
+F-D04-10,A universal reasoning-token scaling law across solver-verified puzzles,52,2,3,3,4,2,2,2,3,mentor,second
+F-D10-06,MediaPipe free-throw mechanics: what predicts a make?,52,3,3,3,2,2,2,2,4,mentor,second
+F-D10-10,How much compute does a neural QEC decoder need to beat MWPM?,52,1,3,4,4,2,2,3,3,mentor,second
+F-D10-05,Phantom traffic jams: dashcam data vs. Nagel-Schreckenberg CA,51,3,3,3,2,1,2,3,4,start,first
+F-D09-06,Matched-compute replication audit of a self-improving-agent claim,51,2,3,4,3,2,2,2,3,mentor,second
+F-D04-01,Easy-hard-easy curve for LLM reasoners at 3-SAT threshold,51,4,3,4,1,0,2,4,3,rework,first
+F-D03-05,An LLM Axelrod tournament: which persona is evolutionarily stable?,51,3,3,3,2,1,2,3,4,start,first
+F-D08-08,Is grokking's critical exponent a universality class?,51,2,3,3,3,2,2,3,3,start,second
+F-D06-04,Chladni-Plate Physical Reservoir for Digit Classification,50,2,3,3,2,2,2,3,4,mentor,second
+F-D07-08,Robustness of self-organizing neural-CA controllers,50,2,3,3,3,1,2,3,4,start,second
+F-D08-01,Grokking as a phase transition: order parameter and critical point,49,3,3,3,2,1,2,3,3,start,first
+F-D06-03,Rolling-Platform Metronome Array Tests the Kuramoto Model,49,3,3,2,2,1,2,3,4,mentor,first
+F-D10-02,Socratic vs. direct-answer LLM tutoring: a retention measurement,49,2,3,3,3,2,2,2,3,mentor,second
+F-D06-07,Physarum Slime-Mold Solver for a Real Transportation Network,49,3,3,3,2,1,2,2,4,mentor,first
+F-D08-07,Scaling laws for tiny transformers on a synthetic physics task,49,2,3,2,3,2,2,3,3,mentor,first
+F-D08-09,Mapping the grokking phase diagram in weight-decay/learning-rate space,49,3,3,3,2,1,2,3,3,start,first
+F-D08-10,Does a trained neural quantum state 'know' the Ising critical point?,49,1,3,4,3,2,2,3,3,mentor,second
+F-D09-09,Do LLM novelty scores predict a paper's future citations?,48,3,3,2,2,2,2,2,3,start,first
+F-D10-07,"Webcam coffee-ring scaling, with a surfactant twist",48,3,3,3,2,0,2,3,4,rework,first
+F-D06-02,Ripple-Tank Water Reservoir Computer for Chaos Forecasting,47,2,3,3,2,1,2,3,4,mentor,second
+F-D08-03,Finite-size scaling collapse of the grokking transition,45,2,3,3,2,1,2,3,3,start,first
+F-D06-06,Single-Node Delay-Line Optoelectronic Reservoir Computer,41,1,3,3,2,1,2,2,4,rework,second
